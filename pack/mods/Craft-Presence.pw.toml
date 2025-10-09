@@ -1,0 +1,8 @@
+filename = 'CraftPresence-2.6.2+1.7.10-forge.jar'
+name = 'Craft-Presence'
+side = 'client'
+
+[download]
+hash = '7AB60237FD6E1409063A2DFD7A2F3D72FFB9D0E5E7C40803D2243D6040019BEA'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/6860/791/CraftPresence-2.6.2%2B1.7.10-forge.jar'

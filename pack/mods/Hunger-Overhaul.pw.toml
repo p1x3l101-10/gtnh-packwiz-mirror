@@ -1,0 +1,8 @@
+filename = 'HungerOverhaul-1.7.10-1.0.0.jenkins104.jar'
+name = 'Hunger-Overhaul'
+side = 'both'
+
+[download]
+hash = '800E55C375575941E7EB6CE1F5C13BE518453016171AF1BA77A7B607C92641F9'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2332/505/HungerOverhaul-1.7.10-1.0.0.jenkins104.jar'

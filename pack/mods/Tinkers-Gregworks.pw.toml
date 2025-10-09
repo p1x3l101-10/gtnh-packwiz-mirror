@@ -1,0 +1,8 @@
+filename = 'TGregworks-1.7.10-GTNH-1.0.28.jar'
+name = 'Tinkers-Gregworks'
+side = 'both'
+
+[download]
+hash = '6598867E429E1E5499F1932C66B99ADA812A350D4AF6DA65FABF7707E45C8AD2'
+hash-format = 'sha256'
+url = 'https://files.vexatos.com/TGregworks/TGregworks-1.7.10-GTNH-1.0.28.jar'

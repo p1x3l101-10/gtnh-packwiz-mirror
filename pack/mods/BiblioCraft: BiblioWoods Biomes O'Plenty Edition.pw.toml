@@ -1,0 +1,8 @@
+filename = 'BiblioWoods[BiomesOPlenty][v1.9].jar'
+name = "BiblioCraft: BiblioWoods Biomes O'Plenty Edition"
+side = 'both'
+
+[download]
+hash = 'A354E4F6D8864347901FDE09880A2B8EC6D914225955F025AD08560275A74F18'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2229/577/BiblioWoods%5bBiomesOPlenty%5d%5bv1.9%5d.jar'

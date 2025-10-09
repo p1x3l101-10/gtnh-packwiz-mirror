@@ -1,0 +1,8 @@
+filename = 'UniLib-1.1.1+1.7.10-forge.jar'
+name = 'UniLib'
+side = 'client'
+
+[download]
+hash = '76F70291C2F02F8EC49FE25E46439D58EEDF29637BC55A4F82F6A2BA9F2B260A'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/6860/734/UniLib-1.1.1%2B1.7.10-forge.jar'

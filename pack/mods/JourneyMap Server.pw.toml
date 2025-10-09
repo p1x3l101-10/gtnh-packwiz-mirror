@@ -1,0 +1,8 @@
+filename = 'JourneyMapServer1.0.5_MC1.7.10.jar'
+name = 'JourneyMap Server'
+side = 'server'
+
+[download]
+hash = 'E1ACED3C5634C830DB064631D9D945025FF3D3C1DD35FA67D1B6F09BF38D6D30'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2232/619/JourneyMapServer1.0.5_MC1.7.10.jar'

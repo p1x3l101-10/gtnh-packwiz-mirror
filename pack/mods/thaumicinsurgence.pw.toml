@@ -1,0 +1,8 @@
+filename = 'thaumicinsurgence-0.4.0.jar'
+name = 'thaumicinsurgence'
+side = 'both'
+
+[download]
+hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash-format = 'sha256'
+url = 'https://api.github.com/repos/GTNewHorizons/thaumicinsurgence/releases/assets/217770473'

@@ -1,0 +1,8 @@
+filename = 'BiblioWoods[Natura][v1.5].jar'
+name = 'BiblioCraft: BiblioWoods Natura Edition'
+side = 'both'
+
+[download]
+hash = '81A825867251574690780B6D50807DBFE701C58F06BED67F05D2CDEB85CC99C9'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5bNatura%5d%5bv1.5%5d.jar'

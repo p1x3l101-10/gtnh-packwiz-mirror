@@ -1,0 +1,8 @@
+filename = 'thaumcraftneiplugin-1.7.10-1.7a.jar'
+name = 'Thaumcraft NEI Plugin'
+side = 'both'
+
+[download]
+hash = 'D39E6C8FC27709B04D58EC4C1B625648776DBF01CDF7AF2D51388EE215D5D4E8'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar'

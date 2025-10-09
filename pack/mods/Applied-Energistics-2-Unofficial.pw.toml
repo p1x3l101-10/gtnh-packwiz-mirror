@@ -1,0 +1,8 @@
+filename = 'appliedenergistics2-rv3-beta-690-GTNH.jar'
+name = 'Applied-Energistics-2-Unofficial'
+side = 'both'
+
+[download]
+hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash-format = 'sha256'
+url = 'https://api.github.com/repos/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/assets/297911773'

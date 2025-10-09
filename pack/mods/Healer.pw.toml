@@ -1,0 +1,8 @@
+filename = 'Healer-1.2.1.jar'
+name = 'Healer'
+side = 'both'
+
+[download]
+hash = 'DB046268D6DD862C21D85374C4C5C18D149554D6CB43A4578CCC8057F44BAEFC'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/4367/893/Healer-1.2.1.jar'

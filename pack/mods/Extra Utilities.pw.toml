@@ -1,0 +1,8 @@
+filename = 'extrautilities-1.2.12.jar'
+name = 'Extra Utilities'
+side = 'both'
+
+[download]
+hash = 'A1941EE4D4B965C4D2DDC6EC0E0B1EB3F3FF8C8B492A18A25B5FCF27C67BA58B'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar'

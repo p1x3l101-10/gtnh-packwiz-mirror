@@ -1,0 +1,8 @@
+filename = 'industrialcraft-2-2.2.828a-experimental.jar'
+name = 'Industrial Craft 2'
+side = 'both'
+
+[download]
+hash = 'B15D922B746DBC20411DCA6ECFE1A975D295ACBFC81B7E754FE5A6D8488A79B6'
+hash-format = 'sha256'
+url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/industrialcraft-2-2.2.828a-experimental.jar'

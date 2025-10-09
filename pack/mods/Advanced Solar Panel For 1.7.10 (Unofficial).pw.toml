@@ -1,0 +1,8 @@
+filename = 'AdvancedSolarPanel-1.7.10-3.5.1a.jar'
+name = 'Advanced Solar Panel For 1.7.10 (Unofficial)'
+side = 'both'
+
+[download]
+hash = 'A8C76322D88FF67CDD374E390F03281FF29B38AEF7FFA5AC82E323C9524436EB'
+hash-format = 'sha256'
+url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/AdvancedSolarPanel-1.7.10-3.5.1a.jar'

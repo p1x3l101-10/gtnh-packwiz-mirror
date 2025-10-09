@@ -1,0 +1,8 @@
+filename = 'Thaumic Machina-1.7.10-0.2.1.jar'
+name = 'Thaumic Machina'
+side = 'both'
+
+[download]
+hash = '745EDC4C412336944198B90BCB4C30A89B8B3181EB3C937244624B1EF7D8D7B6'
+hash-format = 'sha256'
+url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/Thaumic-Machina-1.7.10-0.2.1.jar'

@@ -1,0 +1,9 @@
+author = 'DreamMasterXXL'
+name = 'GregTech: New Horizons'
+pack-format = 'packwiz:1.1.0'
+version = '2.8.0'
+
+[index]
+file = 'index.toml'
+hash = '7D32A193FBDC1700D60DB65F04C399182DAEF8A97E2ABDE519349CC0B40F5FC5'
+hash-format = 'sha256'

@@ -1,0 +1,8 @@
+filename = 'Thaumcraft-1.7.10-4.2.3.5a.jar'
+name = 'Thaumcraft'
+side = 'both'
+
+[download]
+hash = '587B5A084643E617E9D87319AD34B341EBB920E09D060E5A5FBEDECB96553F89'
+hash-format = 'sha256'
+url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/Thaumcraft-1.7.10-4.2.3.5a.jar'

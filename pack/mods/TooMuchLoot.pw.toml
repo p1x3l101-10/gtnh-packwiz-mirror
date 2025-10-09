@@ -1,0 +1,8 @@
+filename = 'TooMuchLoot-4.3.0-GTNH.jar'
+name = 'TooMuchLoot'
+side = 'both'
+
+[download]
+hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash-format = 'sha256'
+url = 'https://api.github.com/repos/GTNewHorizons/TooMuchLoot/releases/assets/265842662'

@@ -1,0 +1,8 @@
+filename = 'IC2 Crop Plugin Version 1.7.10-1.3.1.jar'
+name = 'IC2 Crop-Breeding Plugin'
+side = 'client'
+
+[download]
+hash = '29DFFC972A56D3DE3A92C8CD67FDAAB3B4B91825FF0951369D109329A7A16C9F'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2941/926/IC2+Crop+Plugin+Version+1.7.10-1.3.1.jar'

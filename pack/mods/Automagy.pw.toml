@@ -1,0 +1,8 @@
+filename = 'Automagy-1.7.10-0.28.2.jar'
+name = 'Automagy'
+side = 'both'
+
+[download]
+hash = '4C1D78E0ADEE1754675D93FFBADC8C9FE205710CB77538B953E57810F9528EFC'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/2285/272/Automagy-1.7.10-0.28.2.jar'

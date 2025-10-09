@@ -1,0 +1,8 @@
+filename = '+unimixins-all-1.7.10-0.1.23.jar'
+name = 'UniMixins'
+side = 'both'
+
+[download]
+hash = '53B1721A9FEF8E3351ECE7C6B1B9598ED5290F67B1D00F312244EF603845425E'
+hash-format = 'sha256'
+url = 'https://mediafilez.forgecdn.net/files/6953/804/%2Bunimixins-all-1.7.10-0.1.23.jar'

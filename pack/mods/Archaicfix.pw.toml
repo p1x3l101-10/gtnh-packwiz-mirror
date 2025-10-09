@@ -1,0 +1,8 @@
+filename = 'archaicfix-0.7.7.jar'
+name = 'Archaicfix'
+side = 'both'
+
+[download]
+hash = '0713CB7867DDB6F60A97634295123A74F8FAB578788BE989C53908156D1536E5'
+hash-format = 'sha256'
+url = 'https://github.com/embeddedt/ArchaicFix/releases/download/0.7.7/archaicfix-0.7.7.jar'

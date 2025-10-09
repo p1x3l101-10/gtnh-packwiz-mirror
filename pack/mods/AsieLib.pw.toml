@@ -1,0 +1,8 @@
+filename = 'AsieLib-0.7.0.jar'
+name = 'AsieLib'
+side = 'both'
+
+[download]
+hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash-format = 'sha256'
+url = 'https://api.github.com/repos/GTNewHorizons/AsieLib/releases/assets/265850001'
