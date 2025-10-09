@@ -1,0 +1,10 @@
+# A config override
+[config]
+outPath="./pack"
+
+[unsup]
+targetURL = "https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/main"
+enableSigning = true
+publicKey = "signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv"
+privateKeyFile = "./signingkey.sec"
+noGui = false
