@@ -11,9 +11,7 @@ fi
 git clone --recursive https://github.com/p1x3l101-10/gtnh-2-packwiz build
 
 pushd ./build
-if which nix; then; else
-  cmake --workflow . --preset dev
-fi
+which nix || cmake --workflow . --preset dev
 popd
 
 if which nix; then
