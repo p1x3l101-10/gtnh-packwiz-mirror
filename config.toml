@@ -3,7 +3,7 @@
 outPath="./pack"
 
 [unsup]
-targetURL = "https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/main/pack/pack.toml"
+targetURL = "https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/main/pack"
 enableSigning = true
 publicKey = "signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv"
 privateKeyFile = "./signingkey.sec"
