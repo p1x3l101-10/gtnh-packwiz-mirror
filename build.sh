@@ -2,6 +2,8 @@
 
 PACK_VERSION="2.8.0"
 
+set -euo pipefail
+
 if [[ -e ./build ]]; then
   rm -rf ./build
 fi
