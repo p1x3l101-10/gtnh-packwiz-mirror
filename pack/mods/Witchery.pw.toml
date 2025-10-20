@@ -3,6 +3,6 @@ name = 'Witchery'
 side = 'both'
 
 [download]
-hash = '68C331F624CEA6C0827A31E96A6DCE2E75461227C42DA70F11BA765A8C6A8CEC'
+hash = '68c331f624cea6c0827a31e96a6dce2e75461227c42da70f11ba765a8c6a8cec'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2234/410/witchery-1.7.10-0.24.1.jar'

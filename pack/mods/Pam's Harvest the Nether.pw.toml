@@ -3,6 +3,6 @@ name = "Pam's Harvest the Nether"
 side = 'both'
 
 [download]
-hash = '8861580B83320DEC05D9B1E6CD2CBD3D5BB2CAEBE9C624F532988F98E65640C9'
+hash = '8861580b83320dec05d9b1e6cd2cbd3d5bb2caebe9c624f532988f98e65640c9'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2241/397/Pam%27s+Harvest+the+Nether+1.7.10a.jar'

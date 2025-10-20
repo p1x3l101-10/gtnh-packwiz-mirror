@@ -3,7 +3,7 @@ name = 'Catwalks-2'
 side = 'both'
 
 [download]
-hash = '3213620F57D4CB2C180519CF48DA8E9DCD4A187FB353E06078067D9A2564BD99'
+hash = '3213620f57d4cb2c180519cf48da8e9dcd4a187fb353e06078067d9a2564bd99'
 hash-format = 'sha256'
 url = 'https://api.github.com/repos/GTNewHorizons/Catwalks-2/releases/assets/220593062'
 

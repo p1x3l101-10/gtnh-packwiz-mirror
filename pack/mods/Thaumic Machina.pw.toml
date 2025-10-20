@@ -3,6 +3,6 @@ name = 'Thaumic Machina'
 side = 'both'
 
 [download]
-hash = '745EDC4C412336944198B90BCB4C30A89B8B3181EB3C937244624B1EF7D8D7B6'
+hash = '745edc4c412336944198b90bcb4c30a89b8b3181eb3c937244624b1ef7d8d7b6'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/Thaumic-Machina-1.7.10-0.2.1.jar'

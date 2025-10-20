@@ -3,6 +3,6 @@ name = 'TC-4-Tweaks'
 side = 'both'
 
 [download]
-hash = '1B411A54C3FCCDB3F7259DFA6BDD11BEA8701E3F94515EF78245ABD85C97C1F4'
+hash = '1b411a54c3fccdb3f7259dfa6bdd11bea8701e3f94515ef78245abd85c97c1f4'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/6929/888/Thaumcraft4Tweaks-1.5.39.jar'

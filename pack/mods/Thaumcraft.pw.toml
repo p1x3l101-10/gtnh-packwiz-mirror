@@ -3,6 +3,6 @@ name = 'Thaumcraft'
 side = 'both'
 
 [download]
-hash = '587B5A084643E617E9D87319AD34B341EBB920E09D060E5A5FBEDECB96553F89'
+hash = '587b5a084643e617e9d87319ad34b341ebb920e09d060e5a5fbedecb96553f89'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/Thaumcraft-1.7.10-4.2.3.5a.jar'

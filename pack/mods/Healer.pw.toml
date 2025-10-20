@@ -3,6 +3,6 @@ name = 'Healer'
 side = 'both'
 
 [download]
-hash = 'DB046268D6DD862C21D85374C4C5C18D149554D6CB43A4578CCC8057F44BAEFC'
+hash = 'db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/4367/893/Healer-1.2.1.jar'

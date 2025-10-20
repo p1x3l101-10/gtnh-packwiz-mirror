@@ -3,6 +3,6 @@ name = 'CoFH Core'
 side = 'both'
 
 [download]
-hash = 'ACEFA71392EFF745DCFD6D6D5E49B6586E2E4E103D1260F4674F622152EF6F60'
+hash = 'acefa71392eff745dcfd6d6d5e49b6586e2e4e103d1260f4674f622152ef6f60'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5b1.7.10%5d3.1.4-329.jar'

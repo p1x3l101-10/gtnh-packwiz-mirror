@@ -3,6 +3,6 @@ name = 'Ztones'
 side = 'both'
 
 [download]
-hash = '6420FDA33493EAADF8A695333FBE5F016935C91D68713C918941A1F7856A0E27'
+hash = '6420fda33493eaadf8a695333fbe5f016935c91d68713c918941a1f7856a0e27'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/Ztones-1.7.10-2.2.2.jar'

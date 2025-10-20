@@ -3,6 +3,6 @@ name = 'Compact Kinetic Generators'
 side = 'both'
 
 [download]
-hash = '9C308C827E0920B89CB3F17965DF2CF70CC7C2DC4D99995FFDE55AD77F2C0739'
+hash = '9c308c827e0920b89cb3f17965df2cf70cc7c2dc4d99995ffde55ad77f2c0739'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/CompactKineticGenerators-1.7.10-1.0.jar'
