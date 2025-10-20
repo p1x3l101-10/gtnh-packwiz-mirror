@@ -3,6 +3,10 @@ name = 'DummyCore'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '36b24729d67986690803cb4031307ffbe926b1a498f3b8abe9136baa44830a8b'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/DummyCore/releases/assets/279172475'
+url = 'https://github.com/GTNewHorizons/DummyCore/releases/download/1.20.0/DummyCore-1.20.0.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.20.0'

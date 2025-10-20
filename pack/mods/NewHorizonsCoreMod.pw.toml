@@ -3,6 +3,10 @@ name = 'NewHorizonsCoreMod'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '6971b2e320a69a6bdf8ff54bebc7d50b1906ce2656271ea64880f01017bfa1c3'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/NewHorizonsCoreMod/releases/assets/297914999'
+url = 'https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.260/GTNewHorizonsCoreMod-2.7.260.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.7.260'

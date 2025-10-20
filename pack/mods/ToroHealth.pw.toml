@@ -3,6 +3,10 @@ name = 'ToroHealth'
 side = 'client'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '6708fb67dab0e5932d35ee142f41b4b5bd5c368fb8c8a8fd0b72f0c06c75189f'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ToroHealth/releases/assets/263762042'
+url = 'https://github.com/GTNewHorizons/ToroHealth/releases/download/1.2.0/torohealth-1.2.0.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.0'

@@ -3,6 +3,10 @@ name = 'TooMuchLoot'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '7c2241f0da9d4dc6493f3d32fbced9a00eefbf5f0cab71c8977a90a10252a2a2'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/TooMuchLoot/releases/assets/265842662'
+url = 'https://github.com/GTNewHorizons/TooMuchLoot/releases/download/4.3.0-GTNH/TooMuchLoot-4.3.0-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '4.3.0-GTNH'

@@ -3,6 +3,10 @@ name = 'IronTankMinecarts'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a16b445270f12999b24264e3ac946d9f9206a846ad6735e59bf8114f8928beb7'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/IronTankMinecarts/releases/assets/295382939'
+url = 'https://github.com/GTNewHorizons/IronTankMinecarts/releases/download/1.0.12/irontankminecarts-1.0.12.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.0.12'

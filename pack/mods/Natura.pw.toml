@@ -3,6 +3,10 @@ name = 'Natura'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'd85e979a3ef38d20e6d025fa1e1e43057ef10a63f51975a39f28c3687e4c7b81'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Natura/releases/assets/292573985'
+url = 'https://github.com/GTNewHorizons/Natura/releases/download/2.8.9/Natura-2.8.9.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.8.9'

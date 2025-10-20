@@ -3,6 +3,10 @@ name = 'TinkersMechworks'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '1537134937b425001a96f498b94a4bfb7474f2b1d9d387ce208eeb502b47e841'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/TinkersMechworks/releases/assets/265838761'
+url = 'https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.1/TMechworks-0.4.1.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.4.1'

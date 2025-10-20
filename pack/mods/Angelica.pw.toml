@@ -3,6 +3,10 @@ name = 'Angelica'
 side = 'client'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ebb584cc6b4f87ebda5154a8343aef754f78d424bd9f6c1a154f384a06d3f96b'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Angelica/releases/assets/297643986'
+url = 'https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta57/angelica-1.0.0-beta57.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.0.0-beta57'

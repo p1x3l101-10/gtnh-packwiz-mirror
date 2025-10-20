@@ -3,6 +3,10 @@ name = 'ThaumcraftMobAspects'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '929e86ec61d65850c18524e5153f5ecec4c8e9b08374fe21dd269bf2e66dfa65'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ThaumcraftMobAspects/releases/assets/292575642'
+url = 'https://github.com/GTNewHorizons/ThaumcraftMobAspects/releases/download/1.2.1-GTNH/ThaumcraftMobAspects-1.2.1-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.1-GTNH'

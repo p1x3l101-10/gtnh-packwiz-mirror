@@ -3,6 +3,10 @@ name = 'GTNHLib'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/GTNHLib/releases/assets/297460462'
+url = 'https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.40/gtnhlib-0.6.40.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.6.40'

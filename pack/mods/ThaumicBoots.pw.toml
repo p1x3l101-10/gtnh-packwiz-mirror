@@ -3,6 +3,10 @@ name = 'ThaumicBoots'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '7b7564a255f22d7a1c073b16a8cc34ed2815112eb9e8e1685f3a8144e27c10c5'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ThaumicBoots/releases/assets/286098582'
+url = 'https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.4.14/thaumicboots-1.4.14.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.14'

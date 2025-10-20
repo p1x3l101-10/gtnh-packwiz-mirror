@@ -3,6 +3,10 @@ name = 'Roguelike-Dungeons'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '4fd9a362e517d3096432a7c9664d3bbcbb39b9e337c0175903a3a04ea8632f60'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Roguelike-Dungeons/releases/assets/265837657'
+url = 'https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.6-GTNH/roguelike-1.6.6-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.6.6-GTNH'

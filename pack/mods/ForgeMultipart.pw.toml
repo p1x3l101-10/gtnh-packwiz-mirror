@@ -3,6 +3,10 @@ name = 'ForgeMultipart'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '7e2907bc37885bb4b523f1fe4dc1938acd0fc1a0a94349d64d68c9561a38f191'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ForgeMultipart/releases/assets/281386739'
+url = 'https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.6.8'

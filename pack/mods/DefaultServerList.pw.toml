@@ -3,6 +3,10 @@ name = 'DefaultServerList'
 side = 'client'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a5fceb5e01833a086bd8026f60ca3c09afd68806422c3c20c505a738e2bf6b8a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/DefaultServerList/releases/assets/282080843'
+url = 'https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.6.5/defaultserverlist-1.6.5.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.6.5'

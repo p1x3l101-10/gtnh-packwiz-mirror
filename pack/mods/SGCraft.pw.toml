@@ -3,6 +3,10 @@ name = 'SGCraft'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '70b77d48c95eb1859f5af321b28d822437c80b5ce4d8c7848303fb1f8d62e4f6'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/SGCraft/releases/assets/274449310'
+url = 'https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.5-GTNH/SGCraft-1.4.5-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.5-GTNH'

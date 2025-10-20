@@ -3,6 +3,10 @@ name = 'OpenComputers'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a900e3a1438e530954a7ca8a12e025cbc6c7160a196e049354bcfd0912e0ac7d'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/OpenComputers/releases/assets/291440001'
+url = 'https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.19-GTNH/OpenComputers-1.11.19-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.11.19-GTNH'

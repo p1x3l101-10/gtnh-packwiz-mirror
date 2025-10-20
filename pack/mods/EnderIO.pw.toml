@@ -3,6 +3,10 @@ name = 'EnderIO'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'e8acff1199b444526722945559d5d54d515e3c209ffe17d4088e68237782419a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/EnderIO/releases/assets/297643287'
+url = 'https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.26/EnderIO-2.9.26.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.9.26'

@@ -3,6 +3,10 @@ name = 'ServerUtilities'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '87fbbbd2659dbd95517ea49def13e6d1ce395b5a3798de67edbd62eb50dcdf8a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ServerUtilities/releases/assets/295385666'
+url = 'https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.61/ServerUtilities-2.1.61.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.1.61'

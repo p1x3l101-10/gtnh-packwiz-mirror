@@ -3,6 +3,10 @@ name = 'ForestryMC'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'b537738e29c242726ce7f356985bfd21214f7c8948ea0526e951dbe2f419a3fd'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ForestryMC/releases/assets/280680712'
+url = 'https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.17/Forestry-4.10.17.jar'
+
+[x-generator]
+rateLimited = false
+version = '4.10.17'

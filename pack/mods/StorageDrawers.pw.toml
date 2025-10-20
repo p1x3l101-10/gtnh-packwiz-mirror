@@ -3,6 +3,10 @@ name = 'StorageDrawers'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '91ac857db373cc6b51abf101c5c6028656f8a865ea83d3a0604aaa511a171f88'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/StorageDrawers/releases/assets/297516228'
+url = 'https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.8-GTNH/StorageDrawers-2.1.8-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.1.8-GTNH'

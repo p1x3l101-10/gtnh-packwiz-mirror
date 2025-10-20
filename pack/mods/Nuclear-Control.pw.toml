@@ -3,6 +3,10 @@ name = 'Nuclear-Control'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '5caf38b926eec944fd3f7b27100afbf1439f4b6a76927c041d9bc9631ed7dc1f'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Nuclear-Control/releases/assets/296702575'
+url = 'https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.6.20/IC2NuclearControl-2.6.20.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.6.20'

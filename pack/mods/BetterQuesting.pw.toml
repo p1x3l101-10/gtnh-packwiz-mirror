@@ -3,6 +3,10 @@ name = 'BetterQuesting'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'c0eef289791c38d52f0b1352ad0f6327e0de007a684826ddba0fa2c0e6d1222c'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BetterQuesting/releases/assets/292574435'
+url = 'https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.14-GTNH/BetterQuesting-3.7.14-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '3.7.14-GTNH'

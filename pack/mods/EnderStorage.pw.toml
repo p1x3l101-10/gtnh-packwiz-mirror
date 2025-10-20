@@ -3,6 +3,10 @@ name = 'EnderStorage'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'c88c04e1c17fa8c20ae575364c18a914b126b7ece93ab0e1085416ff8009a8c9'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/EnderStorage/releases/assets/286087488'
+url = 'https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.7/EnderStorage-1.7.7.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.7.7'

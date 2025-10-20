@@ -3,6 +3,10 @@ name = 'AsieLib'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'f933c5f0af42a46a332e886b03cb7cc127e0101bc7198bec48ede03d497c11f8'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/AsieLib/releases/assets/265850001'
+url = 'https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.0/AsieLib-0.7.0.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.7.0'

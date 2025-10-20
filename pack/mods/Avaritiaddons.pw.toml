@@ -3,6 +3,10 @@ name = 'Avaritiaddons'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'c9b2c5c38cb79fa799a4379b3c2a7f75d2164e8acd18611f4af8c4c511a28ce5'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Avaritiaddons/releases/assets/279097251'
+url = 'https://github.com/GTNewHorizons/Avaritiaddons/releases/download/1.9.1-GTNH/Avaritiaddons-1.9.1-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.9.1-GTNH'

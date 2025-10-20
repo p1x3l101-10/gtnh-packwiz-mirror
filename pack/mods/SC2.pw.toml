@@ -3,6 +3,10 @@ name = 'SC2'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'cb561db0bed4a106b483a739718f148aee26ec28724d6f831042c159a3f17af6'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/SC2/releases/assets/281518898'
+url = 'https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts-2.3.12.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.3.12'

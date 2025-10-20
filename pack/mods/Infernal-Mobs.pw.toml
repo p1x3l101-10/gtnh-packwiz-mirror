@@ -3,6 +3,10 @@ name = 'Infernal-Mobs'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'fca5cf76f64862cb1b74650fc937b2c03ac57f8150b80cb7f75f4be6533f146f'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Infernal-Mobs/releases/assets/290117532'
+url = 'https://github.com/GTNewHorizons/Infernal-Mobs/releases/download/1.10.3-GTNH/InfernalMobs-1.10.3-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.10.3-GTNH'

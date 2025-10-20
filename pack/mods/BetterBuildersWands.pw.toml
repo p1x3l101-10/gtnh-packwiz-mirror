@@ -3,6 +3,10 @@ name = 'BetterBuildersWands'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '6d4108d84e53ca8c37bb9460a0010bbbdbf4bad9ccddc321334f5faefac304d3'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BetterBuildersWands/releases/assets/265850651'
+url = 'https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.13.3-GTNH/BetterBuildersWands-0.13.3-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.13.3-GTNH'

@@ -3,6 +3,10 @@ name = 'BuildCraft'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '42d3e70f9435f0c0bdca304d57a680aa6ec9e6f8536620778452e3213e126d80'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BuildCraft/releases/assets/268136441'
+url = 'https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.44/buildcraft-7.1.44.jar'
+
+[x-generator]
+rateLimited = false
+version = '7.1.44'

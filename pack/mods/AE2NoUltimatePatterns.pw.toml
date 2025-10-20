@@ -3,6 +3,10 @@ name = 'AE2NoUltimatePatterns'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'b9d4f5f8e5ca4e65a26f9e1014375bcc38c8886f373ba253b2d0fb1a3c02c8ee'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/AE2NoUltimatePatterns/releases/assets/282196539'
+url = 'https://github.com/GTNewHorizons/AE2NoUltimatePatterns/releases/download/1.0.1/ae2noultimatepatterns-1.0.1.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.0.1'

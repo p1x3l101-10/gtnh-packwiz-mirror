@@ -3,6 +3,10 @@ name = 'Railcraft'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '6bd57ff9f788310971ee0acb08128004494bffd292563514a3b1244d18141306'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Railcraft/releases/assets/286093611'
+url = 'https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.33/Railcraft-9.16.33.jar'
+
+[x-generator]
+rateLimited = false
+version = '9.16.33'

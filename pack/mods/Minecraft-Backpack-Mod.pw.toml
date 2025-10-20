@@ -3,6 +3,10 @@ name = 'Minecraft-Backpack-Mod'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a6ae4c488c8442f48ecb9b9a4606595a862995b67f6ed74a0b4545fbdcb15bcb'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Minecraft-Backpack-Mod/releases/assets/295389027'
+url = 'https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.5.9-GTNH/backpack-2.5.9-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.5.9-GTNH'

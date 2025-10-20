@@ -3,6 +3,10 @@ name = 'WirelessCraftingTerminal'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '39f823036dce7030bd4e68762a1e2a0469852255e3d40e0cc6e1f3bc264b42ae'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WirelessCraftingTerminal/releases/assets/273080291'
+url = 'https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.12.7/WirelessCraftingTerminal-1.12.7.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.12.7'

@@ -3,6 +3,10 @@ name = 'Thaumic_Exploration'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '4ff01486d423163ab0fafdc7ae6465bcfad7b61a9047d106061bf6194e489bd1'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Thaumic_Exploration/releases/assets/295388111'
+url = 'https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.4.7-GTNH/Thaumic-Exploration-1.4.7-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.7-GTNH'

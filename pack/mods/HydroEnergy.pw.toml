@@ -3,6 +3,10 @@ name = 'HydroEnergy'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '6794790b669e2e2313152007aaae513eb6b40fd625988b5a042306a779534a19'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/HydroEnergy/releases/assets/270218201'
+url = 'https://github.com/GTNewHorizons/HydroEnergy/releases/download/1.4.9/hydroenergy-1.4.9.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.9'

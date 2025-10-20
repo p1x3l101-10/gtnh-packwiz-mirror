@@ -3,6 +3,10 @@ name = 'ForbiddenMagic'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ba02c844454f8f5e4a326a23c86d75d89ede635eff3b5a52a3a9078d32a3f21a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ForbiddenMagic/releases/assets/283116941'
+url = 'https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.3-GTNH/Forbidden.Magic-0.8.3-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.8.3-GTNH'

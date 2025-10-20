@@ -3,6 +3,10 @@ name = 'IguanaTweaksTConstruct'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a46788d0d3d94e1c0d455dd937b42cd80434d894fa07da4671fbebffe42c975a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/IguanaTweaksTConstruct/releases/assets/294219325'
+url = 'https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.6.6/IguanaTweaksTConstruct-2.6.6.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.6.6'

@@ -3,6 +3,10 @@ name = 'Computronics'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '3b1a9b40856ca5677efb6217fbae14c91cf342b925170137acbbed171bd1f228'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Computronics/releases/assets/260636326'
+url = 'https://github.com/GTNewHorizons/Computronics/releases/download/1.9.3-GTNH/Computronics-1.9.3-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.9.3-GTNH'

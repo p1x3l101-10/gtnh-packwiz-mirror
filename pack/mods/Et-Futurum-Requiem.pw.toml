@@ -3,6 +3,10 @@ name = 'Et-Futurum-Requiem'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '4925bb676e66a43d50c84f6f8e627fdc486e062b84e5e6b963e124b24840701a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Et-Futurum-Requiem/releases/assets/297638136'
+url = 'https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6.2.25-GTNH/etfuturum-2.6.2.25-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.6.2.25-GTNH'

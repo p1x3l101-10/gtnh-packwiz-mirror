@@ -3,6 +3,10 @@ name = 'Botania'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '8d0ebffbd299ab4886c4a4a1147c74c2433b66242fab9dd073b7edaf1ee233ae'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Botania/releases/assets/297592550'
+url = 'https://github.com/GTNewHorizons/Botania/releases/download/1.12.26-GTNH/Botania-1.12.26-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.12.26-GTNH'

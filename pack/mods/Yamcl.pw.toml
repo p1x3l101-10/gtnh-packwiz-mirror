@@ -3,6 +3,10 @@ name = 'Yamcl'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'eaa6349c892798eb1d79a0df2078630e553b12a6f93a4ae64c3e34373a30c80d'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Yamcl/releases/assets/265840494'
+url = 'https://github.com/GTNewHorizons/Yamcl/releases/download/0.7.1/YAMCore-0.7.1.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.7.1'

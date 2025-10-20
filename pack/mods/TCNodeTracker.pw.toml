@@ -3,6 +3,10 @@ name = 'TCNodeTracker'
 side = 'client'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'efa9e4e3a65423bb07897c5cb80f644b02853d74b9e82523743517c3e58e4d2e'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/TCNodeTracker/releases/assets/265850586'
+url = 'https://github.com/GTNewHorizons/TCNodeTracker/releases/download/1.4.0/tcnodetracker-1.4.0.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.0'

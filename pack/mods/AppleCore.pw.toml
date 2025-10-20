@@ -3,6 +3,10 @@ name = 'AppleCore'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'c4f611f48444da713c2e90bb60120da12f649b5085467e269508276cbd7b7486'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/AppleCore/releases/assets/282071835'
+url = 'https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.7/AppleCore-3.3.7.jar'
+
+[x-generator]
+rateLimited = false
+version = '3.3.7'

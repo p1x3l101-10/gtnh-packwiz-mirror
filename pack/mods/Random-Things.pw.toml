@@ -3,6 +3,10 @@ name = 'Random-Things'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ce16dc3f5c0f48afd0d8e3e9335ec5cf2ee203da5738b7d2e15a7607cb896363'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Random-Things/releases/assets/272776628'
+url = 'https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.6/RandomThings-2.6.6.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.6.6'

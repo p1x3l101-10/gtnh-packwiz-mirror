@@ -3,6 +3,10 @@ name = 'NaturesCompass'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/NaturesCompass/releases/assets/219233817'
+url = 'https://github.com/GTNewHorizons/NaturesCompass/releases/download/1.5.0-GTNH/naturescompass-1.5.0-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.5.0-GTNH'

@@ -3,6 +3,10 @@ name = 'WAWLA'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '1e9611b60d6b16ee23e4e4bc00a72bab597c7544334eafeef7b92b667d23fe08'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WAWLA/releases/assets/262012819'
+url = 'https://github.com/GTNewHorizons/WAWLA/releases/download/1.3.1-GTNH/Wawla-1.3.1-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.3.1-GTNH'

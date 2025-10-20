@@ -3,6 +3,10 @@ name = 'Galaxy-Space-GTNH'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '3213620F57D4CB2C180519CF48DA8E9DCD4A187FB353E06078067D9A2564BD99'
 hash-format = 'sha256'
 url = 'https://api.github.com/repos/GTNewHorizons/Galaxy-Space-GTNH/releases/assets/290033405'
+
+[x-generator]
+rateLimited = false
+version = '1.1.121-GTNH'

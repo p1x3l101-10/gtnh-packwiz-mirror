@@ -3,6 +3,10 @@ name = 'Salis-Arcana'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'd3165ee3571710cfe52cd08decfa90b625d2dba1a4f79a691bd28bb07f93ee24'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Salis-Arcana/releases/assets/295159131'
+url = 'https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.33-GTNH/salisarcana-1.1.33-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.1.33-GTNH'

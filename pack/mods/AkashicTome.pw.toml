@@ -3,6 +3,10 @@ name = 'AkashicTome'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '0b391494ec4ad622298af2ae98c12d166cac432a261d2202a482c24467ca5329'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/AkashicTome/releases/assets/276770640'
+url = 'https://github.com/GTNewHorizons/AkashicTome/releases/download/1.2.6/akashictome-1.2.6.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.6'

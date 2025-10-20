@@ -3,6 +3,10 @@ name = 'MagicBees'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '2e17daaf4a987b69610acd496b6107c6e221bfc9373e4fc9cc00c211358c9d17'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/MagicBees/releases/assets/262012840'
+url = 'https://github.com/GTNewHorizons/MagicBees/releases/download/2.9.4-GTNH/magicbees-2.9.4-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.9.4-GTNH'

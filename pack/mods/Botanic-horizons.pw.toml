@@ -3,6 +3,10 @@ name = 'Botanic-horizons'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '07c6f0713bfa641c861180f6c0f63344bf5481e767aee26f25dee5ccf7b73c35'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Botanic-horizons/releases/assets/286091654'
+url = 'https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.24-GTNH/BotanicHorizons-1.11.24-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.11.24-GTNH'

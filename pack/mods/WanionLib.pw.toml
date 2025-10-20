@@ -3,6 +3,10 @@ name = 'WanionLib'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ac5bef9786a932ce795ffe5fa93b42fbece02fa921c8a9270dda9fc0a8fc9044'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WanionLib/releases/assets/265842352'
+url = 'https://github.com/GTNewHorizons/WanionLib/releases/download/1.10.0/WanionLib-1.10.0.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.10.0'

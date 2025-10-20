@@ -3,6 +3,10 @@ name = 'EnhancedLootBags'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'e696906dc5d9b28c74c2baf827e91dcff05e1e8950150de7b678ce8841bf849d'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/EnhancedLootBags/releases/assets/265840760'
+url = 'https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.2.8/EnhancedLootBags-1.2.8.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.8'

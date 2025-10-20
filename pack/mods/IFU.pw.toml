@@ -3,6 +3,10 @@ name = 'IFU'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ffb352511f05b98bd0bafc9729c6fbbccf3c5b6a2b07a74548e808a8ab3e2594'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/IFU/releases/assets/280671186'
+url = 'https://github.com/GTNewHorizons/IFU/releases/download/1.11.2/ifu-1.11.2.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.11.2'

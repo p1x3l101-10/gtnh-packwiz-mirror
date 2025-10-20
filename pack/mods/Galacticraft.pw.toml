@@ -3,6 +3,10 @@ name = 'Galacticraft'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'eb0d15bb28826e05dbed68be1cd4ec5ceb09b2bf367b773adddb85391b4f56e8'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Galacticraft/releases/assets/288074063'
+url = 'https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.12-GTNH/Galacticraft-3.3.12-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '3.3.12-GTNH'

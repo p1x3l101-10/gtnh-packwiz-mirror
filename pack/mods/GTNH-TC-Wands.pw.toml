@@ -3,6 +3,10 @@ name = 'GTNH-TC-Wands'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'a9bc1fe2e4fbd928582b604c860f4ab97cccd6cffff45f0dcd5c1984d9ee1303'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/GTNH-TC-Wands/releases/assets/275366594'
+url = 'https://github.com/GTNewHorizons/GTNH-TC-Wands/releases/download/1.4.6/GTNH-TC-Wands-1.4.6.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.6'

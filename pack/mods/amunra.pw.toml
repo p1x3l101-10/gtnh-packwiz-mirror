@@ -3,6 +3,10 @@ name = 'amunra'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'bcd0ca636d545a0f361f6583fd667bd40ca4b79198fc06d1552038310a7b1978'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/amunra/releases/assets/265861406'
+url = 'https://github.com/GTNewHorizons/amunra/releases/download/0.8.2/AmunRa-GC-0.8.2.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.8.2'

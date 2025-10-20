@@ -3,6 +3,10 @@ name = 'Opis'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '9ef20be4e8d7d96a51fcbc45136581ad0a95eca003d5cd2240c4ebbc313a1e96'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Opis/releases/assets/262032316'
+url = 'https://github.com/GTNewHorizons/Opis/releases/download/1.4.6-mapless/Opis-1.4.6-mapless.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.6-mapless'

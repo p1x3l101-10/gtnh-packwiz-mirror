@@ -3,6 +3,10 @@ name = 'Chisel'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '9d34589eeb551d79c2bc9a5f755cf960cf1d2688c0a422e00fc63cc6c243d218'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Chisel/releases/assets/295380896'
+url = 'https://github.com/GTNewHorizons/Chisel/releases/download/2.16.13-GTNH/chisel-2.16.13-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.16.13-GTNH'

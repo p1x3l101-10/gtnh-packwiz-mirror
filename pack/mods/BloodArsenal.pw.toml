@@ -3,6 +3,10 @@ name = 'BloodArsenal'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'e60b9a9bcbd3a8c42f7fc5377642748c711de141f574522773119943e7740f42'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BloodArsenal/releases/assets/275929642'
+url = 'https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.4.10/BloodArsenal-1.4.10.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.10'

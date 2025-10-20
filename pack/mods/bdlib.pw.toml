@@ -3,6 +3,10 @@ name = 'bdlib'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '130e6e88b8a3340a7518eef3ba313877b7a08149693980fa10c5d8b4f9da3095'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/bdlib/releases/assets/265850087'
+url = 'https://github.com/GTNewHorizons/bdlib/releases/download/1.11.0-GTNH/bdlib-1.11.0-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.11.0-GTNH'

@@ -3,6 +3,10 @@ name = 'ae2stuff'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '768326b6799d1be2f5c1d13a8d23c605aea9c9d68c1a0df44a6b3cda624e1339'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ae2stuff/releases/assets/297154939'
+url = 'https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.8-GTNH/ae2stuff-0.9.8-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.9.8-GTNH'

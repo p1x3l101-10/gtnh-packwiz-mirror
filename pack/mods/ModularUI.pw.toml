@@ -3,6 +3,10 @@ name = 'ModularUI'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '21a8ce9fc4d731f7d8d4a3d12c71f7564aa65402901b5d19bbbddb7ac1e975cd'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ModularUI/releases/assets/268171500'
+url = 'https://github.com/GTNewHorizons/ModularUI/releases/download/1.2.20/modularui-1.2.20.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.20'

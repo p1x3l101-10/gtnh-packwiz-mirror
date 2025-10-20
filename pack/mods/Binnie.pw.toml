@@ -3,6 +3,10 @@ name = 'Binnie'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '03610937201d4c075db987d8eef6e691ae9f2d3f556b0a3fa7bd6fcd3569b91d'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Binnie/releases/assets/297172134'
+url = 'https://github.com/GTNewHorizons/Binnie/releases/download/2.5.22/binnie-mods-2.5.22.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.5.22'

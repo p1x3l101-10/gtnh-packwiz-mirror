@@ -3,6 +3,10 @@ name = 'ProjectBlue'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '9c438068f97bb42e1d86f5671b206931216b1296b5ce4cf0066f5a09fcdd7160'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ProjectBlue/releases/assets/295386285'
+url = 'https://github.com/GTNewHorizons/ProjectBlue/releases/download/1.2.1-GTNH/ProjectBlue-1.2.1-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.1-GTNH'

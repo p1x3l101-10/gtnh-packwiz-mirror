@@ -3,6 +3,10 @@ name = 'WitchingGadgets'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '61e8015dc17c34132b860033d5f8fe9f31185fda16616d31569333cc4dca6b92'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WitchingGadgets/releases/assets/290591240'
+url = 'https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.24-GTNH/WitchingGadgets-1.7.24-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.7.24-GTNH'

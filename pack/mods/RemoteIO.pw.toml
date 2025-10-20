@@ -3,6 +3,10 @@ name = 'RemoteIO'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '5df029435e2f223900f3829560e6c4121aa53c59d873d305a3b3095b14a328b3'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/RemoteIO/releases/assets/265849935'
+url = 'https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.6/RemoteIO-2.7.6.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.7.6'

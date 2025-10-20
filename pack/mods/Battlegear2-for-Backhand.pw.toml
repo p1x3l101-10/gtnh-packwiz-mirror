@@ -3,6 +3,10 @@ name = 'Battlegear2-for-Backhand'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '194570a144cb661e83fa2c716f1ad308244728ecbe72056a034b87708fb9c55a'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Battlegear2-for-Backhand/releases/assets/295387826'
+url = 'https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.5.8-backhand/battlegear2-1.5.8-backhand.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.5.8-backhand'

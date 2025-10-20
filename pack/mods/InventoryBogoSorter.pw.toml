@@ -3,6 +3,10 @@ name = 'InventoryBogoSorter'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '874ae204ebe1edb1d8f26e958fd332567ffb70c2a2b2a025c4a4b4508335489f'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/InventoryBogoSorter/releases/assets/297586891'
+url = 'https://github.com/GTNewHorizons/InventoryBogoSorter/releases/download/1.2.65-GTNH/bogosorter-1.2.65-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.2.65-GTNH'

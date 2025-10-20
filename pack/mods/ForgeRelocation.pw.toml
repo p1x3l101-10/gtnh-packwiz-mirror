@@ -3,6 +3,10 @@ name = 'ForgeRelocation'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '4998806ceee798da7823557b02e20c0c8b3fae1c3f521fccdf682ef8d325f617'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ForgeRelocation/releases/assets/283122965'
+url = 'https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.4/ForgeRelocation-0.3.4.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.3.4'

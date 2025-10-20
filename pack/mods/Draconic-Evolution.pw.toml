@@ -3,6 +3,10 @@ name = 'Draconic-Evolution'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '34a470894a4461353caeb57e7e02c803740d1dfbe9c2816da9d2a0ea4e3dcbcf'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Draconic-Evolution/releases/assets/295383884'
+url = 'https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.4.27-GTNH/Draconic-Evolution-1.4.27-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.27-GTNH'

@@ -3,6 +3,10 @@ name = 'ThaumicHorizons'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '3c3e5eb34410bd6830180eca99d1fbadc64b53f83d12360a171f33891158b21d'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ThaumicHorizons/releases/assets/296046123'
+url = 'https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.7.8/ThaumicHorizons-1.7.8.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.7.8'

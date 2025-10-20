@@ -3,6 +3,10 @@ name = 'BuildCraftCompat'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'd404905f21b2f31c2ce9c3b60742dbc396e3d3afeef0ca8289ba8c26410106e4'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BuildCraftCompat/releases/assets/273772294'
+url = 'https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.1.18/buildcraft-compat-7.1.18.jar'
+
+[x-generator]
+rateLimited = false
+version = '7.1.18'

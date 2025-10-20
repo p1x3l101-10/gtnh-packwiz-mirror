@@ -3,6 +3,10 @@ name = 'BeeBetterAtBees-GTNH'
 side = 'client'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'fd23426e7fdb3bc40114aa6a3d8d0186f9a0904a27fc5b9e2d54b88614d940cc'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/BeeBetterAtBees-GTNH/releases/assets/277331462'
+url = 'https://github.com/GTNewHorizons/BeeBetterAtBees-GTNH/releases/download/0.4.3-GTNH/beebetteratbees-0.4.3-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.4.3-GTNH'

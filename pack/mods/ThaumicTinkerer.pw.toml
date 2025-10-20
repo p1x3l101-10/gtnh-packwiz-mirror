@@ -3,6 +3,10 @@ name = 'ThaumicTinkerer'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'ba54eed406776c513bfde2f027709667ee9ca85cbec61c9611ccdb87e37f4db0'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/ThaumicTinkerer/releases/assets/297238933'
+url = 'https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.11.26'

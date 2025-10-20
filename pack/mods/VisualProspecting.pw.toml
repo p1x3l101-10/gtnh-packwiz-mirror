@@ -3,6 +3,10 @@ name = 'VisualProspecting'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '0fbf4324f9d33c4b01f415732f01b21118ebfa74b20303125c0287a763f9e6a5'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/VisualProspecting/releases/assets/287051016'
+url = 'https://github.com/GTNewHorizons/VisualProspecting/releases/download/1.4.8/visualprospecting-1.4.8.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.4.8'

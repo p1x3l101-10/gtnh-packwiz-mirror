@@ -3,6 +3,10 @@ name = 'MatterManipulator'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '69b1ae3417507da1b40cc99e96c544f302777afff67bb6b1e5eb9683c3d194b5'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/MatterManipulator/releases/assets/291096323'
+url = 'https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.49-GTNH/matter-manipulator-0.0.49-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '0.0.49-GTNH'

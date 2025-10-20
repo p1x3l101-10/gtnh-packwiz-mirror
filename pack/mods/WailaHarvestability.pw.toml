@@ -3,6 +3,10 @@ name = 'WailaHarvestability'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '08a823bd221a203be070ce31c08db10a573540843f5f8dbe9f0bf30fff3bb7d3'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WailaHarvestability/releases/assets/265840912'
+url = 'https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.3.4-GTNH/WailaHarvestability-1.3.4-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.3.4-GTNH'

@@ -3,6 +3,10 @@ name = 'Electro-Magic-Tools'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '2bbdfc544400caa2954745bcf597b521f10cd1dbaa6c0f0c1a741f7fc1c8f053'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Electro-Magic-Tools/releases/assets/290659904'
+url = 'https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.17/EMT-1.6.17.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.6.17'

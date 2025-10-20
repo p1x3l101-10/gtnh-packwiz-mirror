@@ -3,6 +3,10 @@ name = 'Baubles-Expanded'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = '58c72ac357098633fb9c9dd1a985a4dcddc5f14d48079be906e6a17932e092f6'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Baubles-Expanded/releases/assets/295383573'
+url = 'https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.15-GTNH/BaublesExpanded-2.1.15-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.1.15-GTNH'

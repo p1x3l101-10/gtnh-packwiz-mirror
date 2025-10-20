@@ -3,6 +3,10 @@ name = 'WarpTheory'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'e22539a0f7252e8485209f2a4327236f1da0fcf1d53314c3bd6a95436e9793fa'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/WarpTheory/releases/assets/265841295'
+url = 'https://github.com/GTNewHorizons/WarpTheory/releases/download/1.5.0-GTNH/WarpTheory-1.5.0-GTNH.jar'
+
+[x-generator]
+rateLimited = false
+version = '1.5.0-GTNH'

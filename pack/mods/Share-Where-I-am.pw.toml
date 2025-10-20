@@ -3,6 +3,10 @@ name = 'Share-Where-I-am'
 side = 'both'
 
 [download]
-hash = 'D9AB29846A62A78DC96626A912BF8BFE3340D8D466AF3D44BA9B5CBF5D38394E'
+hash = 'c3491de6b38a51358775f3c50c0bbf8b9570766ff652a879e695a373c530a3bc'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Share-Where-I-am/releases/assets/272777561'
+url = 'https://github.com/GTNewHorizons/Share-Where-I-am/releases/download/2.1.4/sharewhereiam-2.1.4.jar'
+
+[x-generator]
+rateLimited = false
+version = '2.1.4'
