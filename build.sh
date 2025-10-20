@@ -4,13 +4,16 @@ PACK_VERSION="2.8.0"
 
 set -euo pipefail
 
-if [[ -e ./build ]]; then
-  rm -rf ./build
+if [[ ! -d ./build ]]; then
+  if [[ -e ./build ]]; then
+    rm -rf ./build
+  fi
+  git clone --recursive https://github.com/p1x3l101-10/gtnh-2-packwiz build
 fi
 
-git clone --recursive https://github.com/p1x3l101-10/gtnh-2-packwiz build
 
 pushd ./build
+git pull
 which nix || cmake --workflow . --preset dev
 popd
 
