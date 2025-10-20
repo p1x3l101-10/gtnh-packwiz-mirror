@@ -15,6 +15,10 @@ if [[ ! -d ./build ]]; then
   git clone --recursive https://github.com/p1x3l101-10/gtnh-2-packwiz build
 fi
 
+cat ./config.toml > ./.config.assembled.toml
+cat <<EOF >> ./.config.assembled.toml
+targetURL = "https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/${BRANCH_NAME}/pack"
+EOF
 
 pushd ./build
 git pull
@@ -22,7 +26,7 @@ which nix || cmake --workflow . --preset dev
 popd
 
 if which nix; then
-  nix run ./build --  --pack-version="${PACK_VERSION}" --config=./config.toml "$@"
+  nix run ./build --  --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml "$@"
 else
-  exec ./build/build/gtnh-2-packwiz --pack-version="${PACK_VERSION}" --config=./config.toml "$@"
+  exec ./build/build/gtnh-2-packwiz --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml "$@"
 fi
