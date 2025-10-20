@@ -26,7 +26,7 @@ which nix || cmake --workflow . --preset dev
 popd
 
 if which nix; then
-  nix run ./build --  --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml "$@"
+  nix run ./build --  --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml --color=on "$@"
 else
-  exec ./build/build/gtnh-2-packwiz --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml "$@"
+  exec ./build/build/gtnh-2-packwiz --pack-version="${PACK_VERSION}" --config=./.config.assembled.toml --color=on "$@"
 fi
