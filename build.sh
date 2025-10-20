@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
+set -euo pipefail
 
 PACK_VERSION="2.8.0"
+BRANCH_NAME="$(git branch --show-current)"
 
-set -euo pipefail
+if [[ ${BRANCH_NAME} != "main" ]]; then
+  PACK_VERSION="${BRANCH_NAME}"
+fi
 
 if [[ ! -d ./build ]]; then
   if [[ -e ./build ]]; then
