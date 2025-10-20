@@ -1,12 +1,12 @@
-filename = 'ThaumicTinkerer-2.11.26.jar'
+filename = 'ThaumicTinkerer-2.11.27.jar'
 name = 'ThaumicTinkerer'
 side = 'both'
 
 [download]
-hash = 'ba54eed406776c513bfde2f027709667ee9ca85cbec61c9611ccdb87e37f4db0'
+hash = 'ba642cf51967458bb601cdf18afbcd1d2f92bb8fb2ab4ec0b01be98a6ef03c51'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.26/ThaumicTinkerer-2.11.26.jar'
+url = 'https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.27/ThaumicTinkerer-2.11.27.jar'
 
 [x-generator]
 rateLimited = false
-version = '2.11.26'
+version = '2.11.27'

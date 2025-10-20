@@ -1,2 +1,2 @@
 # The following line is the JVM args to allow unsup to download its own configuration
--Dunsup.bootstrapUrl=https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/v2.8.0/pack/unsup.ini -Dunsup.bootstrapKey='signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv'
+-Dunsup.bootstrapUrl=https://raw.githubusercontent.com/p1x3l101-10/gtnh-packwiz-mirror/refs/heads/v2.8.1/pack/unsup.ini -Dunsup.bootstrapKey='signify RWRBgYcfobPE7I7STPLaQnp69F06aqQaBSWk0AuUFKlUoCyE6VUZKxJv'

@@ -1,12 +1,12 @@
-filename = 'BotanicHorizons-1.11.24-GTNH.jar'
+filename = 'BotanicHorizons-1.11.25-GTNH.jar'
 name = 'Botanic-horizons'
 side = 'both'
 
 [download]
-hash = '07c6f0713bfa641c861180f6c0f63344bf5481e767aee26f25dee5ccf7b73c35'
+hash = '741e02610d4873687b5754af84fba8966cc1f4cd976e45766dd0c3b0e32fcbfe'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.24-GTNH/BotanicHorizons-1.11.24-GTNH.jar'
+url = 'https://github.com/GTNewHorizons/Botanic-horizons/releases/download/1.11.25-GTNH/BotanicHorizons-1.11.25-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-version = '1.11.24-GTNH'
+version = '1.11.25-GTNH'

@@ -1,12 +1,12 @@
-filename = 'SpecialMobs-3.7.0.jar'
+filename = 'SpecialMobs-3.6.3.jar'
 name = 'SpecialMobs'
 side = 'both'
 
 [download]
-hash = 'E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855'
+hash = '1a663164c6f9ff28e61e8987603d7ac0cbdb2188c89555e2d89d5fd40c225fbe'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.7.0/SpecialMobs-3.7.0.jar'
+url = 'https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.6.3/SpecialMobs-3.6.3.jar'
 
 [x-generator]
 rateLimited = false
-version = '3.7.0'
+version = '3.6.3'

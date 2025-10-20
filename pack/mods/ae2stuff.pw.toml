@@ -1,12 +1,12 @@
-filename = 'ae2stuff-0.9.8-GTNH.jar'
+filename = 'ae2stuff-0.9.9-GTNH.jar'
 name = 'ae2stuff'
 side = 'both'
 
 [download]
-hash = '768326b6799d1be2f5c1d13a8d23c605aea9c9d68c1a0df44a6b3cda624e1339'
+hash = 'cb5f798e650b0490b1fbde010005837296bf5464db8818e617fd268b93f3ab0c'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.8-GTNH/ae2stuff-0.9.8-GTNH.jar'
+url = 'https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.9-GTNH/ae2stuff-0.9.9-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-version = '0.9.8-GTNH'
+version = '0.9.9-GTNH'

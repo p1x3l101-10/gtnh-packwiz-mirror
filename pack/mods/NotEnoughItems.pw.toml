@@ -1,12 +1,12 @@
-filename = 'NotEnoughItems-2.7.91-GTNH.jar'
+filename = 'NotEnoughItems-2.8.19-GTNH.jar'
 name = 'NotEnoughItems'
 side = 'both'
 
 [download]
-hash = '809b92054043635eb1da05a25faa1f3c11c3fb67624339c580642680e25162ee'
+hash = 'd7966d402b4e29f3fc1f69f963028ec90a94152f93ececa53d3b6bc2292a8b7c'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.7.91-GTNH/NotEnoughItems-2.7.91-GTNH.jar'
+url = 'https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.19-GTNH/NotEnoughItems-2.8.19-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-version = '2.7.91-GTNH'
+version = '2.8.19-GTNH'

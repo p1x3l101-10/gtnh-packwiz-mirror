@@ -1,12 +1,12 @@
-filename = 'Forbidden.Magic-0.8.3-GTNH.jar'
+filename = 'Forbidden.Magic-0.8.4-GTNH.jar'
 name = 'ForbiddenMagic'
 side = 'both'
 
 [download]
-hash = 'ba02c844454f8f5e4a326a23c86d75d89ede635eff3b5a52a3a9078d32a3f21a'
+hash = '7b35e1152972dd290454339b5bf3297fcd67f699f1cb9cb223b7c3ced616adb1'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.3-GTNH/Forbidden.Magic-0.8.3-GTNH.jar'
+url = 'https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.4-GTNH/Forbidden.Magic-0.8.4-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-version = '0.8.3-GTNH'
+version = '0.8.4-GTNH'

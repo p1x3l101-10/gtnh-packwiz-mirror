@@ -1,12 +1,12 @@
-filename = 'Botania-1.12.26-GTNH.jar'
+filename = 'Botania-1.12.27-GTNH.jar'
 name = 'Botania'
 side = 'both'
 
 [download]
-hash = '8d0ebffbd299ab4886c4a4a1147c74c2433b66242fab9dd073b7edaf1ee233ae'
+hash = 'ebbe85ec70b736e95f4a89d8be7415c1756fa8f3a382af8cfb72229700c77b87'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Botania/releases/download/1.12.26-GTNH/Botania-1.12.26-GTNH.jar'
+url = 'https://github.com/GTNewHorizons/Botania/releases/download/1.12.27-GTNH/Botania-1.12.27-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-version = '1.12.26-GTNH'
+version = '1.12.27-GTNH'

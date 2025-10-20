@@ -1,12 +1,12 @@
-filename = 'angelica-1.0.0-beta57.jar'
+filename = 'angelica-1.0.0-beta62.jar'
 name = 'Angelica'
 side = 'client'
 
 [download]
-hash = 'ebb584cc6b4f87ebda5154a8343aef754f78d424bd9f6c1a154f384a06d3f96b'
+hash = 'd9c3ffe5f9486325233ad7c60b3c7631509d7202fd7f4be9181b65c02563fc8f'
 hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta57/angelica-1.0.0-beta57.jar'
+url = 'https://github.com/GTNewHorizons/Angelica/releases/download/1.0.0-beta62/angelica-1.0.0-beta62.jar'
 
 [x-generator]
 rateLimited = false
-version = '1.0.0-beta57'
+version = '1.0.0-beta62'
