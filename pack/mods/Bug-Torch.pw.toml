@@ -3,6 +3,6 @@ name = 'Bug-Torch'
 side = 'both'
 
 [download]
-hash = '1B8ADBB982D65965D0B070B96077405786CE5D01C08775BBF6BCB63B4D49F780'
+hash = '1b8adbb982d65965d0b070b96077405786ce5d01c08775bbf6bcb63b4d49f780'
 hash-format = 'sha256'
 url = 'https://github.com/jss2a98aj/BugTorch/releases/download/1.2.14/bugtorch-1.2.14.jar'

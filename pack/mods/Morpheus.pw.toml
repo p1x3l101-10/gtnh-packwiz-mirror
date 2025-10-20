@@ -3,6 +3,6 @@ name = 'Morpheus'
 side = 'server'
 
 [download]
-hash = '37014340A0400277B1202233F75619D53E84C0CF37D2D3561A993241A45CB412'
+hash = '37014340a0400277b1202233f75619d53e84c0cf37d2d3561a993241a45cb412'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2280/761/Morpheus-1.7.10-1.6.21.jar'

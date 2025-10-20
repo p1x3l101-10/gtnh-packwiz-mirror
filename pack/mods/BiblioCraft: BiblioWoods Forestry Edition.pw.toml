@@ -3,6 +3,6 @@ name = 'BiblioCraft: BiblioWoods Forestry Edition'
 side = 'both'
 
 [download]
-hash = '5D2FC7DFE753698FCC0CF2E093C24C5AD08CFDD736CE06D69570EEFC267E3AD1'
+hash = '5d2fc7dfe753698fcc0cf2e093c24c5ad08cfdd736ce06d69570eefc267e3ad1'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2229/574/BiblioWoods%5bForestry%5d%5bv1.7%5d.jar'

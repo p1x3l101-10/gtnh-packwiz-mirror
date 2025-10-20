@@ -3,6 +3,6 @@ name = 'Gravitation-Suite-old'
 side = 'both'
 
 [download]
-hash = '713DC2248488934FC04D6BD62EB27BE374BDC4BAF428EEABCB2FD98257496A3B'
+hash = '713dc2248488934fc04d6bd62eb27be374bdc4baf428eeabcb2fd98257496a3b'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/GraviSuite-1.7.10-2.0.3.jar'
