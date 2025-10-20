@@ -5,7 +5,11 @@ PACK_VERSION="2.8.0"
 BRANCH_NAME="$(git branch --show-current)"
 
 if [[ ${BRANCH_NAME} != "main" ]]; then
-  PACK_VERSION="${BRANCH_NAME}"
+  if [[ ${BRANCH_NAME} == v* ]]; then
+    PACK_VERSION="${BRANCH_NAME/v/}"
+  else
+    PACK_VERSION="${BRANCH_NAME}"
+  fi
 fi
 
 if [[ ! -d ./build ]]; then
