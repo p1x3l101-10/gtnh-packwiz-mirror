@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Forgelin/releases/download/2.0.3-GTNH/fo
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.0.3-GTNH'

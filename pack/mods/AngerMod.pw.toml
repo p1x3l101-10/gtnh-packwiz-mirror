@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/AngerMod/releases/download/0.9.0/AngerMo
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.9.0'

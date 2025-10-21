@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.2/Cra
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '3.4.2'

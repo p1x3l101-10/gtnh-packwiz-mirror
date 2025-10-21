@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Universal-Singularities/releases/downloa
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '8.10.0'

@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.7.13'

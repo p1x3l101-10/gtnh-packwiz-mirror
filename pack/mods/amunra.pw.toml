@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/amunra/releases/download/0.8.2/AmunRa-GC
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.8.2'

@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/CropLoadCore/releases/download/0.2.0/Cro
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.2.0'

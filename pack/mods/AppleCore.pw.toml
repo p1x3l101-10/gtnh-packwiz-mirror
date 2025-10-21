@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/AppleCore/releases/download/3.3.7/AppleC
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '3.3.7'

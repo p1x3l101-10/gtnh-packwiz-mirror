@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/LootGames/releases/download/2.2.0/lootga
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.2.0'

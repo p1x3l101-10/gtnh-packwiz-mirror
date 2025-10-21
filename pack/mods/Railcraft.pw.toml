@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Railcraft/releases/download/9.16.33/Rail
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '9.16.33'

@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon/releases/do
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.3.1'

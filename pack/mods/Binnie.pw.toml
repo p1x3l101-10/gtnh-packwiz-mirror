@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Binnie/releases/download/2.5.23/binnie-m
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.5.23'

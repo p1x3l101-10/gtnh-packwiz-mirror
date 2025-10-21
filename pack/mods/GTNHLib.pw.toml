@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/GTNHLib/releases/download/0.7.0/gtnhlib-
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.7.0'

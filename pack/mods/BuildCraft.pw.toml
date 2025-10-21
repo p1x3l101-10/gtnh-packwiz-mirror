@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.44/buil
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '7.1.44'

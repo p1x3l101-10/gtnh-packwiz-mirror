@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Backhand/releases/download/1.7.7/backhan
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.7.7'

@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/downlo
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.5.9-backhand'

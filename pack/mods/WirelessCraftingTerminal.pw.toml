@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/downlo
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.12.7'

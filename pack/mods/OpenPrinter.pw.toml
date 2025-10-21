@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/OpenPrinter/releases/download/0.3.0-GTNH
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.3.0-GTNH'

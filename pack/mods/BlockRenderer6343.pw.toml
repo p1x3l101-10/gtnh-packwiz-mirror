@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.3.17'

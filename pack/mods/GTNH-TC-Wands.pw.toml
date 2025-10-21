@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/GTNH-TC-Wands/releases/download/1.4.6/GT
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.4.6'

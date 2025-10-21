@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.7/
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.4.7'

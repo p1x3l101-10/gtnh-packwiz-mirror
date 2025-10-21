@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/WanionLib/releases/download/1.10.0/Wanio
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.10.0'

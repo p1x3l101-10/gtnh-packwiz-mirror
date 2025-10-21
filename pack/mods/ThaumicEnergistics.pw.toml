@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.7.14-GTNH'

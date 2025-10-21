@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Controlling/releases/download/2.1.2/cont
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.1.2'

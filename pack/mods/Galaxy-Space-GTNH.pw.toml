@@ -9,4 +9,5 @@ url = 'https://api.github.com/repos/GTNewHorizons/Galaxy-Space-GTNH/releases/ass
 
 [x-generator]
 rateLimited = false
+usedApi = false
 version = '1.1.121-GTNH'

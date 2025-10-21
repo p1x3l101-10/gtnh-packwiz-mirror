@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Irontanks/releases/download/1.4.2/ironta
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.4.2'

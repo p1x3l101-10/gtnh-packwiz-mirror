@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.12-GT
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '3.3.12-GTNH'

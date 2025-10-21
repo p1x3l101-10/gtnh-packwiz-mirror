@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.3.12'

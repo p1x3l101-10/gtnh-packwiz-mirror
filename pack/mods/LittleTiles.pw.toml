@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/LittleTiles/releases/download/1.5.14-GTN
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.5.14-GTNH'

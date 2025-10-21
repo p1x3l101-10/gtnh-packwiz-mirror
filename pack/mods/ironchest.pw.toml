@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronCh
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '6.1.6'

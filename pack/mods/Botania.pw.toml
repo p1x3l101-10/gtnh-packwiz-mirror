@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Botania/releases/download/1.12.27-GTNH/B
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.12.27-GTNH'

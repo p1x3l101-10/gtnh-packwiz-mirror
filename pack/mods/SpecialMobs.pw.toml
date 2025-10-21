@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.6.3/Spec
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '3.6.3'

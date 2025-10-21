@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.6-GTNH/m
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.5.6-GTNH'

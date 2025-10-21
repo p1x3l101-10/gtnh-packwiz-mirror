@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/SleepingBags/releases/download/0.3.0/sle
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.3.0'

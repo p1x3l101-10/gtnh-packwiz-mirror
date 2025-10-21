@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/EnhancedLootBags/releases/download/1.2.8
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.2.8'

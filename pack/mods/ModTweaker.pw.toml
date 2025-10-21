@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/ModTweaker/releases/download/0.12.0/ModT
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.12.0'

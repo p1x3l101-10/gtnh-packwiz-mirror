@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '2.4.3'

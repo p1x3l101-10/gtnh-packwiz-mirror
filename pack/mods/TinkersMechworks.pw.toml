@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.1
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.4.1'

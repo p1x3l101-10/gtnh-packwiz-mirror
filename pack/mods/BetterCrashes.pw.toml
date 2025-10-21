@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/BetterCrashes/releases/download/1.4.0-GT
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.4.0-GTNH'

@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Realistic-World-Gen/releases/download/al
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = 'alpha-1.5.0'

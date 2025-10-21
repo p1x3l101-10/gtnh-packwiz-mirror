@@ -9,4 +9,5 @@ url = 'https://api.github.com/repos/GTNewHorizons/Catwalks-2/releases/assets/220
 
 [x-generator]
 rateLimited = false
+usedApi = false
 version = '2.4.0-GTNH'

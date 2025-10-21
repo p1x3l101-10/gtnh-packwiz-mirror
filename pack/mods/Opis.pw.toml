@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/Opis/releases/download/1.4.6-mapless/Opi
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '1.4.6-mapless'

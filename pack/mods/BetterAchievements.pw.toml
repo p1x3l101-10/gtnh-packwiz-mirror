@@ -9,4 +9,5 @@ url = 'https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3
 
 [x-generator]
 rateLimited = false
+usedApi = true
 version = '0.3.0'
