@@ -3,11 +3,11 @@ name = 'DefaultWorldGenerator'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'b0bda6e216766a8c992852051fc82e872de0b0514e64441944eb69ff33f2e53f'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/DefaultWorldGenerator/releases/download/0.4.0/defaultworldgenerator-0.4.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.4.0'

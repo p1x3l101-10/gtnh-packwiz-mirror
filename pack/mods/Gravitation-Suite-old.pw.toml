@@ -6,3 +6,8 @@ side = 'both'
 hash = '713dc2248488934fc04d6bd62eb27be374bdc4baf428eeabcb2fd98257496a3b'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/GraviSuite-1.7.10-2.0.3.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '2.0.3'

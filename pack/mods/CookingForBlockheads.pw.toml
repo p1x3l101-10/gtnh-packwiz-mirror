@@ -3,11 +3,11 @@ name = 'CookingForBlockheads'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '79d714498f1ff2efadd96b21a86d93b9c6892789f2920ec359591a05dadaaa64'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.4-GTNH/CookingForBlockheads-1.4.4-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.4.4-GTNH'

@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/downlo
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.12.14-GTNH'

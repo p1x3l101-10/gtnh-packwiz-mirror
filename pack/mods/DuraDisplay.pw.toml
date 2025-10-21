@@ -3,11 +3,11 @@ name = 'DuraDisplay'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '94793d26d48241f31cf3d10ab8cd646c6c4a1ec165a6b2fa4923a2caced78e76'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/DuraDisplay/releases/download/1.3.4/duradisplay-1.3.4.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.4'

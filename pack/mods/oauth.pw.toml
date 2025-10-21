@@ -3,11 +3,11 @@ name = 'oauth'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '7eb2cf219d91fa951c3fae7fe75645a77a20368ac729bcff1b3ad6c2ce3fea9a'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/oauth/releases/download/1.3.3-GTNH/oauth-1.3.3-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.3-GTNH'

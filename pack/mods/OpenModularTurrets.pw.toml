@@ -3,11 +3,11 @@ name = 'OpenModularTurrets'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '81cb46377f459944c1d1f7c04df9605a2522eda0af264ce4e252ca533a6f90ae'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/OpenModularTurrets/releases/download/2.4.3/OpenModularTurrets-2.4.3.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.4.3'

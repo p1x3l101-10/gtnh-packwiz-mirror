@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.13.56-GTNH'

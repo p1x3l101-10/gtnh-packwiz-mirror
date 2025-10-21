@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.4-G
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.8.4-GTNH'

@@ -3,11 +3,11 @@ name = 'ChiselTones'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '2ba342849dee538490091a506b87fef63b107af2e672a910f85497b45c092d34'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/ChiselTones/releases/download/1.2.0-GTNH/chiseltones-1.2.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.2.0-GTNH'

@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.6/RemoteI
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.7.6'

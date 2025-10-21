@@ -5,7 +5,7 @@ side = 'both'
 [download]
 hash = '3213620f57d4cb2c180519cf48da8e9dcd4a187fb353e06078067d9a2564bd99'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Galaxy-Space-GTNH/releases/assets/290033405'
+url = 'https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.121-GTNH/GalaxySpace-1.1.121-GTNH.jar'
 
 [x-generator]
 rateLimited = false

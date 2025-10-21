@@ -3,11 +3,11 @@ name = 'Controlling'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '69f8faa4496d4d29d743abd9caa8e4b2cb8b99c7f06c9b6f902d96421e59ca61'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Controlling/releases/download/2.1.2/controlling-2.1.2.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.1.2'

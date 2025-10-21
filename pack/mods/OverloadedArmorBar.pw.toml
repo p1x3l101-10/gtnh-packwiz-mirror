@@ -3,11 +3,11 @@ name = 'OverloadedArmorBar'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'bee208324d723d37b59c04c1b29e47606657d0b94700ce1da456ac3f0a2e5975'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/OverloadedArmorBar/releases/download/1.1.0/overloadedarmorbar-1.1.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.1.0'

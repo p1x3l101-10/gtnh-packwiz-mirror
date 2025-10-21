@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/EnderIO/releases/download/2.9.27/EnderIO
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.9.27'

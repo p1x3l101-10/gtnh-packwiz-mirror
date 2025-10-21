@@ -3,11 +3,11 @@ name = 'Player-API'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '13cec0ea69288c38e3174864439889d7c2da611409d7520fc276929cb74215d6'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Player-API/releases/download/1.5.0/PlayerAPI-1.5.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.5.0'

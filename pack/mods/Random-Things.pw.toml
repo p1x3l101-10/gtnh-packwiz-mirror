@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.6/Ra
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.6.6'

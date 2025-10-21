@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/TooMuchLoot/releases/download/4.3.0-GTNH
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '4.3.0-GTNH'

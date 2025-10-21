@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/neiaddons/releases/download/1.17.0/NEIAd
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.17.0'

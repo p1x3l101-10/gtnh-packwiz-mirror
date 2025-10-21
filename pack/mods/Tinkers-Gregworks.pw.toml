@@ -6,3 +6,8 @@ side = 'both'
 hash = '6598867e429e1e5499f1932c66b99ada812a350d4af6da65fabf7707e45c8ad2'
 hash-format = 'sha256'
 url = 'https://files.vexatos.com/TGregworks/TGregworks-1.7.10-GTNH-1.0.28.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.0.28'

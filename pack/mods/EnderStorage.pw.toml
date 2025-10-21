@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/EnderStorage/releases/download/1.7.7/End
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.7.7'

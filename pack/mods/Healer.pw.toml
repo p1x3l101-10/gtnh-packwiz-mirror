@@ -6,3 +6,8 @@ side = 'both'
 hash = 'db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/4367/893/Healer-1.2.1.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.2.1'

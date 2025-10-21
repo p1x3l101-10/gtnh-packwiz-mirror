@@ -3,11 +3,11 @@ name = 'LootGames'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '9fbadcf451cd2b9151a0a1cfd8f5c7b8d8657e36e62cc139433346e84935e13e'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/LootGames/releases/download/2.2.0/lootgames-2.2.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.2.0'

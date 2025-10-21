@@ -6,3 +6,8 @@ side = 'both'
 hash = '4c1d78e0adee1754675d93ffbadc8c9fe205710cb77538b953e57810f9528efc'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2285/272/Automagy-1.7.10-0.28.2.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '0.28.2'

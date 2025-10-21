@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/SpiceOfLife/releases/download/2.2.3-carr
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.2.3-carrot'

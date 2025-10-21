@@ -3,11 +3,11 @@ name = 'CraftTweaker'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '45fd07248bb25976b59b1a06efdd2c6d9c095d44be44528b489dfbca67a67471'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.4.2/CraftTweaker-3.4.2.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '3.4.2'

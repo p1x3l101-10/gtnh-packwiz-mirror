@@ -6,3 +6,8 @@ side = 'both'
 hash = '8861580b83320dec05d9b1e6cd2cbd3d5bb2caebe9c624f532988f98e65640c9'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2241/397/Pam%27s+Harvest+the+Nether+1.7.10a.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.7.10a'

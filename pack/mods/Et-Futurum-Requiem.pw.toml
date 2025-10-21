@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Et-Futurum-Requiem/releases/download/2.6
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.6.2.25-GTNH'

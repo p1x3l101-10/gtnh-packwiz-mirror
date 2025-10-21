@@ -3,11 +3,11 @@ name = 'OpenPrinter'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '5d9b0d77c81ff35b97fbb78f006c4f60c8339ac7d09e4f5fdb963dbbc349dd5a'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/OpenPrinter/releases/download/0.3.0-GTNH/openprinter-0.3.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.3.0-GTNH'

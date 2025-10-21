@@ -3,11 +3,11 @@ name = 'StevesAddons'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '8705db02e4dd6c2de553c7577d46ce681f08a6d3e80acb9cebe4db24d249e523'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/StevesAddons/releases/download/0.14.2/StevesAddons-0.14.2.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.14.2'

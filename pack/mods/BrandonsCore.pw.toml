@@ -3,11 +3,11 @@ name = 'BrandonsCore'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'a57cc303e89eb091fb88c0d6b4bd4952befbb2b116f91ad4590a76076a2d8f84'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/BrandonsCore/releases/download/1.2.0-GTNH/BrandonsCore-1.2.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.2.0-GTNH'

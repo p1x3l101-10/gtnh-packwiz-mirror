@@ -3,11 +3,11 @@ name = 'BetterAchievements'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '3fe25c63b81cde07bcfa6ed8142a5dc68490381e4e108fadee60170197250697'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.3.0/BetterAchievements-0.3.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.3.0'

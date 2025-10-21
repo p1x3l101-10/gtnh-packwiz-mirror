@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ae2stuff/releases/download/0.9.9-GTNH/ae
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.9.9-GTNH'

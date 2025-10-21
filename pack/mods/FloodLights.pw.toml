@@ -3,11 +3,11 @@ name = 'FloodLights'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '97fcd20b1bb6432b4d83e99a11343b66a0a2fe0b3f2aa9c6e8f51034e48dfdc5'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/FloodLights/releases/download/1.5.4/FloodLights-1.5.4.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.5.4'

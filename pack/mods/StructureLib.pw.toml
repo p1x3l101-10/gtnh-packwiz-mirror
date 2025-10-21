@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.23/st
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.4.23'

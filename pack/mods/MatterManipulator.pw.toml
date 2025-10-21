@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.0.51-GTNH'

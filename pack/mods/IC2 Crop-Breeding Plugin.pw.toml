@@ -6,3 +6,8 @@ side = 'client'
 hash = '29dffc972a56d3de3a92c8cd67fdaab3b4b91825ff0951369d109329a7a16c9f'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2941/926/IC2+Crop+Plugin+Version+1.7.10-1.3.1.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.3.1'

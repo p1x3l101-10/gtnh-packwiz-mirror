@@ -3,11 +3,11 @@ name = 'TX-Loader'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'cc3af646a495a2435424c99a1637ecbd41a14e543a99587f4951fa6afdcd329f'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/TX-Loader/releases/download/1.8.5/txloader-1.8.5.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.8.5'

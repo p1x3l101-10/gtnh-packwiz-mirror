@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.1
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.1.17-GTNH'

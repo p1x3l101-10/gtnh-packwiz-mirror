@@ -3,11 +3,11 @@ name = 'CropLoadCore'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '8a32526a63d98241734391e7b77a6c1e340cf5acba720bc3da1d5f314a04aee8'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/CropLoadCore/releases/download/0.2.0/CropLoadCore-0.2.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.2.0'

@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ForgeRelocation/releases/download/0.3.4/
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.3.4'

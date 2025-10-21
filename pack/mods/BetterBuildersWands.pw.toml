@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/BetterBuildersWands/releases/download/0.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.13.3-GTNH'

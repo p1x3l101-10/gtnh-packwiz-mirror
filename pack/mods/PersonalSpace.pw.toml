@@ -3,11 +3,11 @@ name = 'PersonalSpace'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '8d4789c9f5e318df6d97b6e7980a99df4f1cd9f33b485f39f9a2dab74f206065'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/PersonalSpace/releases/download/1.0.33/personalspace-1.0.33.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.0.33'

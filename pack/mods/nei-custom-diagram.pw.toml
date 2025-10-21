@@ -3,11 +3,11 @@ name = 'nei-custom-diagram'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '0d5764a3695d45f1043aa59f95ae4d8762ced0b48c9c1e652c20fa4c8cc347c8'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/nei-custom-diagram/releases/download/1.7.5/NEICustomDiagram-1.7.5.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.7.5'

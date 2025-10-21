@@ -6,3 +6,8 @@ side = 'both'
 hash = '53b1721a9fef8e3351ece7c6b1b9598ed5290f67b1d00f312244ef603845425e'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/6953/804/%2Bunimixins-all-1.7.10-0.1.23.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '0.1.23'

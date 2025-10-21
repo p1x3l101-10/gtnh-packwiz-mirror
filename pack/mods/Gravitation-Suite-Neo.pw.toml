@@ -3,11 +3,11 @@ name = 'Gravitation-Suite-Neo'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '64bba0b5c7287c79c2094b2d738e9306d1971f4b28b62f3447c5ac1a3ca42b47'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Gravitation-Suite-Neo/releases/download/1.3.6/gravisuiteneo-1.3.6.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.6'

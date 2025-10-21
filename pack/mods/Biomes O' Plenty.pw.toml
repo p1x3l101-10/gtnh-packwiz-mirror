@@ -6,3 +6,8 @@ side = 'both'
 hash = '5382d1c156c871c896b6cebd036b80f58ceaff36b09d416b113f32884b7b4a2a'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2499/612/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '2.1.0.2308'

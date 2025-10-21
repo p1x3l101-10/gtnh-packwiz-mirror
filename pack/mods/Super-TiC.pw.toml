@@ -3,11 +3,11 @@ name = 'Super-TiC'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'e1e164739adc2fd1364cfa40e60dbb7be05dd7814529665e3c23990638d5a6b1'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Super-TiC/releases/download/1.5.0/SuperTic-1.5.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.5.0'

@@ -3,11 +3,11 @@ name = 'Schematica'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '9b12f671791c336288a8ba7541eaef388a3d0a1db6ece04295555604bdb8a6c1'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Schematica/releases/download/1.12.6-GTNH/Schematica-1.12.6-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.12.6-GTNH'

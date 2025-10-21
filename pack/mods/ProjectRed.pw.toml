@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.13-GTN
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '4.11.13-GTNH'

@@ -3,11 +3,11 @@ name = 'Realistic-World-Gen'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '678868d091e55c6a3d66f6b858865e2a80893fd256b0aa43215239ecb416dd62'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Realistic-World-Gen/releases/download/alpha-1.5.0/RWG-alpha-1.5.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = 'alpha-1.5.0'

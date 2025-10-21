@@ -6,3 +6,8 @@ side = 'both'
 hash = 'd39e6c8fc27709b04d58ec4c1b625648776dbf01cdf7af2d51388ee215d5d4e8'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2241/913/thaumcraftneiplugin-1.7.10-1.7a.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.7a'

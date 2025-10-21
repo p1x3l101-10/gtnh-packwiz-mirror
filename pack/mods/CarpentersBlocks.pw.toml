@@ -3,11 +3,11 @@ name = 'CarpentersBlocks'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '61d7adbb94e57063f9e1279d557bd1986d0a32e6e4f9787060a0841d76afe387'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/CarpentersBlocks/releases/download/3.7.0-GTNH/CarpentersBlocks-3.7.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '3.7.0-GTNH'

@@ -6,3 +6,8 @@ side = 'both'
 hash = '1b411a54c3fccdb3f7259dfa6bdd11bea8701e3f94515ef78245abd85c97c1f4'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/6929/888/Thaumcraft4Tweaks-1.5.39.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.5.39'

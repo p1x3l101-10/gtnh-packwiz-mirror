@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/IFU/releases/download/1.11.2/ifu-1.11.2.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.11.2'

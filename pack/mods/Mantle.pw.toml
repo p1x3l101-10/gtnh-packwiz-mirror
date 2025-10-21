@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Mantle/releases/download/0.5.1/Mantle-0.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.5.1'

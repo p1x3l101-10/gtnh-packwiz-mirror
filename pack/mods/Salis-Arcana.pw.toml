@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Salis-Arcana/releases/download/1.1.33-GT
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.1.33-GTNH'

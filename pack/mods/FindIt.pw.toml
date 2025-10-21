@@ -3,11 +3,11 @@ name = 'FindIt'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'cc54fe67b210ab8e9105e16ad13da673604da4254f2f8f71e077afa5b6a46c99'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/FindIt/releases/download/1.4.0/findit-1.4.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.4.0'

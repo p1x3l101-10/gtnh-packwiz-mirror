@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.1.16'

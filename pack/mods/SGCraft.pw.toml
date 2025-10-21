@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/SGCraft/releases/download/1.4.5-GTNH/SGC
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.4.5-GTNH'

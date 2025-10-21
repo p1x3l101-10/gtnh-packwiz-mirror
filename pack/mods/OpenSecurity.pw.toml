@@ -3,11 +3,11 @@ name = 'OpenSecurity'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '3b588306ac5e3ac8a73b645b165804c2e8cbeaf327348473945d9fcf2d82c54d'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/OpenSecurity/releases/download/1.2.0-GTNH/opensecurity-1.2.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.2.0-GTNH'

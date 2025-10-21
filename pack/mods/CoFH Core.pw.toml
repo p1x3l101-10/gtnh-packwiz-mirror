@@ -6,3 +6,8 @@ side = 'both'
 hash = 'acefa71392eff745dcfd6d6d5e49b6586e2e4e103d1260f4674f622152ef6f60'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2388/750/CoFHCore-%5b1.7.10%5d3.1.4-329.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '3.1.4-329'

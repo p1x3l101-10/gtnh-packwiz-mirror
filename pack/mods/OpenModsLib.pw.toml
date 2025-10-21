@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.11/Op
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.10.11'

@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/NotEnoughItems/releases/download/2.8.19-
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.8.19-GTNH'

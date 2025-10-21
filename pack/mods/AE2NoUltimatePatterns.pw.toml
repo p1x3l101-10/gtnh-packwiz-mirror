@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/AE2NoUltimatePatterns/releases/download/
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.0.1'

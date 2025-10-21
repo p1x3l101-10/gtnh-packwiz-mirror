@@ -3,11 +3,11 @@ name = 'ModTweaker'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'e8e6f83bce8c0aaaa7a2d069aa69c1c0cc902964379be667589c6979be979d71'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/ModTweaker/releases/download/0.12.0/ModTweaker2-0.12.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.12.0'

@@ -3,11 +3,11 @@ name = 'Minetweaker-Gregtech-5-Addon'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '8e1b84b8b227a575f35b3ac269f493ff8c7c9f7a89c547b8de2ecf8dfecfd575'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Minetweaker-Gregtech-5-Addon/releases/download/2.3.1/GTTweaker-2.3.1.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.3.1'

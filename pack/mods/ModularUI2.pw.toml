@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.18-1.7.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.2.18-1.7.10'

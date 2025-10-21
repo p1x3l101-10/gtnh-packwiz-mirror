@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Navigator/releases/download/1.0.17/navig
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.0.17'

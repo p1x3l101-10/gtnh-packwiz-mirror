@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.6.6-GTNH'

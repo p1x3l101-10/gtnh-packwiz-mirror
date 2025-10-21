@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.11.2
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.11.27'

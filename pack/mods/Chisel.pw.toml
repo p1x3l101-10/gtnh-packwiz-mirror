@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Chisel/releases/download/2.16.14-GTNH/ch
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.16.14-GTNH'

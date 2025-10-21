@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.110/hod
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.6.110'

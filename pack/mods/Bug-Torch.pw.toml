@@ -6,3 +6,8 @@ side = 'both'
 hash = '1b8adbb982d65965d0b070b96077405786ce5d01c08775bbf6bcb63b4d49f780'
 hash-format = 'sha256'
 url = 'https://github.com/jss2a98aj/BugTorch/releases/download/1.2.14/bugtorch-1.2.14.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.2.14'

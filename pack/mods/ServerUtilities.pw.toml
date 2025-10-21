@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.2/
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.2.2'

@@ -3,11 +3,11 @@ name = 'EnderCore'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '033e83eb4fea36edb5aacdfca6936552fc1bbb0161b4cfdab341f5a86bdb0f14'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.8/endercore-0.4.8.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.4.8'

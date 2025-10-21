@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Darkerer/releases/download/1.0.6/darkere
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.0.6'

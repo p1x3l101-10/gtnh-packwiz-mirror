@@ -3,11 +3,11 @@ name = 'Tinkers-Defense'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'b1d5abffe38fafa25505194984887f2b0de732687964488ba5a36b6e99ab2a6b'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Tinkers-Defense/releases/download/1.3.2/tinkersdefense-1.3.2.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.2'

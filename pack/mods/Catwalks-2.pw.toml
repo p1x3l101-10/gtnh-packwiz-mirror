@@ -5,7 +5,7 @@ side = 'both'
 [download]
 hash = '3213620f57d4cb2c180519cf48da8e9dcd4a187fb353e06078067d9a2564bd99'
 hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Catwalks-2/releases/assets/220593062'
+url = 'https://github.com/GTNewHorizons/Catwalks-2/releases/download/2.4.0-GTNH/catwalks-2.4.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false

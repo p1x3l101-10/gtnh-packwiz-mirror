@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/release
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = 'rv3-beta-691-GTNH'

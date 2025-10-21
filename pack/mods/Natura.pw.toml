@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Natura/releases/download/2.8.9/Natura-2.
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.8.9'

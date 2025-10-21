@@ -3,11 +3,11 @@ name = 'AFSU'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '600681d4cb463a12edfab2fa9e4e08ef5a45271f9e91d4d62d3bef6dfda034ab'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/AFSU/releases/download/1.3.1-GTNH/AFSU-1.3.1-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.1-GTNH'

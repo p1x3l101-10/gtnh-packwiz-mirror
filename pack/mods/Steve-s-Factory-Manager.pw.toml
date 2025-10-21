@@ -3,11 +3,11 @@ name = 'Steve-s-Factory-Manager'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '216a76e5e96d0845f247481b224871367803dde122f557c724632feda572c71c'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Steve-s-Factory-Manager/releases/download/1.3.4-GTNH/StevesFactoryManager-1.3.4-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.3.4-GTNH'

@@ -3,11 +3,11 @@ name = 'OCGlasses'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '1c2f0ebc345e15d2ae1d23118e6bcf2767047615ff31de95f618df0040812738'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/OCGlasses/releases/download/1.6.1-GTNH/OpenGlasses-1.6.1-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.6.1-GTNH'

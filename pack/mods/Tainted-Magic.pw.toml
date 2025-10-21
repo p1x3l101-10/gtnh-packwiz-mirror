@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.26-G
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '7.6.26-GTNH'

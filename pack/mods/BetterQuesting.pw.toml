@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.15-
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '3.7.15-GTNH'

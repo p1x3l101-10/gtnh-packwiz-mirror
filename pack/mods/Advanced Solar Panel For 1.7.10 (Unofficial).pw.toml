@@ -6,3 +6,8 @@ side = 'both'
 hash = 'a8c76322d88ff67cdd374e390f03281ff29b38aef7ffa5ac82e323c9524436eb'
 hash-format = 'sha256'
 url = 'http://downloads.gtnewhorizons.com/Mods_for_Twitch/AdvancedSolarPanel-1.7.10-3.5.1a.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.7.10 Edition'

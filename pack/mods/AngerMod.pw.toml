@@ -3,11 +3,11 @@ name = 'AngerMod'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '3611ad49850a62e832b7f3c479d3dc808b59881a2ca51309ccca5d4967eb1f04'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/AngerMod/releases/download/0.9.0/AngerMod-0.9.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.9.0'

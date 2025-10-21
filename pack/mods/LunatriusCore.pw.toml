@@ -3,11 +3,11 @@ name = 'LunatriusCore'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '887574ea5ea35f250c3c6483b77edd4923ebf2e73c688401c6dc3fceecc92ead'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/LunatriusCore/releases/download/1.2.1-GTNH/LunatriusCore-1.2.1-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.2.1-GTNH'

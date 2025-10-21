@@ -3,11 +3,11 @@ name = 'BetterCrashes'
 side = 'client'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '8f2edf1d9616af82fb00a5d8c50a145aab203141bddb1e8aeb8ceb0a2eabd33a'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/BetterCrashes/releases/download/1.4.0-GTNH/bettercrashes-1.4.0-GTNH.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '1.4.0-GTNH'

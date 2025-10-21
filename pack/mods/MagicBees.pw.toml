@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/MagicBees/releases/download/2.9.4-GTNH/m
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.9.4-GTNH'

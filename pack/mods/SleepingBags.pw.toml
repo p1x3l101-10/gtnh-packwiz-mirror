@@ -3,11 +3,11 @@ name = 'SleepingBags'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = '6972b3d8c7ad7ef4067a509449e1d49376fc5c94579b14f42c7c57ff296c1611'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/SleepingBags/releases/download/0.3.0/sleepingbag-0.3.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.3.0'

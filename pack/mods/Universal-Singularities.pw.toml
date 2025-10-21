@@ -3,11 +3,11 @@ name = 'Universal-Singularities'
 side = 'both'
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+hash = 'b06c5e659f4cf2d5526632f505c4cd873884dd797a489ff610eb4c953ce53efa'
 hash-format = 'sha256'
 url = 'https://github.com/GTNewHorizons/Universal-Singularities/releases/download/8.10.0/Universal-Singularities-8.10.0.jar'
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '8.10.0'

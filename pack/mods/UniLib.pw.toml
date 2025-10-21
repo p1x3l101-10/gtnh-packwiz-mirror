@@ -6,3 +6,8 @@ side = 'client'
 hash = '76f70291c2f02f8ec49fe25e46439d58eedf29637bc55a4f82f6a2ba9f2b260a'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/6860/734/UniLib-1.1.1%2B1.7.10-forge.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.1.1'

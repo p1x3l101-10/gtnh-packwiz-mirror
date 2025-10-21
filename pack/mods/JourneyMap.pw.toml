@@ -6,3 +6,8 @@ side = 'client'
 hash = 'a5e78710d719c54945a45730bbec6572e4322f04e674ee2c1c7b417948f35bb1'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/6706/114/journeymap-1.7.10-5.2.10-fairplay.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '5.2.10-fairplay'

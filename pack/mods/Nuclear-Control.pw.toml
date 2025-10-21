@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.6.20
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.6.20'

@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.5-GT
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '2.5.5-GTNH'

@@ -6,3 +6,8 @@ side = 'both'
 hash = '81a825867251574690780b6d50807dbfe701c58f06bed67f05d2cdeb85cc99c9'
 hash-format = 'sha256'
 url = 'https://mediafilez.forgecdn.net/files/2229/581/BiblioWoods%5bNatura%5d%5bv1.5%5d.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '1.5'

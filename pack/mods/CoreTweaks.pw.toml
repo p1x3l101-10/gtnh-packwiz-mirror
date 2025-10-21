@@ -9,5 +9,5 @@ url = 'https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.6-GTN
 
 [x-generator]
 rateLimited = false
-usedApi = true
+usedApi = false
 version = '0.3.3.6-GTNH'

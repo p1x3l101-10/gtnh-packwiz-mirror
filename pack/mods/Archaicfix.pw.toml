@@ -6,3 +6,8 @@ side = 'both'
 hash = '0713cb7867ddb6f60a97634295123a74f8fab578788be989c53908156d1536e5'
 hash-format = 'sha256'
 url = 'https://github.com/embeddedt/ArchaicFix/releases/download/0.7.7/archaicfix-0.7.7.jar'
+
+[x-generator]
+rateLimited = false
+usedApi = false
+version = '0.7.7'
