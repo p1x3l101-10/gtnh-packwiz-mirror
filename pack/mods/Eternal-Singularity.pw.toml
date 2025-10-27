@@ -3,7 +3,7 @@ name = "Eternal-Singularity"
 side = "both"
 
 [download]
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "5ecc9aa768f3aef0382108457879cc4f0f5211ea6e6887bfe68e8f488899dfb6"
 hash-format = "sha256"
 url = "https://github.com/GTNewHorizons/Eternal-Singularity/releases/download/1.2.3/eternalsingularity-1.2.3.jar"
 
