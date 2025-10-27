@@ -1,12 +1,13 @@
-filename = 'blockrenderer6343-1.3.16.jar'
-name = 'BlockRenderer6343'
-side = 'both'
+filename = "blockrenderer6343-1.3.16.jar"
+name = "BlockRenderer6343"
+side = "both"
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.16/blockrenderer6343-1.3.16.jar'
+hash = "0b56058126fecea877991b9bb12afd195a67e2bf7691ad65b90adcfbc6b551a7"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BlockRenderer6343/releases/download/1.3.16/blockrenderer6343-1.3.16.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.3.16'
+usedApi = false
+version = "1.3.16"

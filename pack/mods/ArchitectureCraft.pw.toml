@@ -1,12 +1,13 @@
-filename = 'ArchitectureCraft-1.11.5.jar'
-name = 'ArchitectureCraft'
-side = 'both'
+filename = "ArchitectureCraft-1.11.5.jar"
+name = "ArchitectureCraft"
+side = "both"
 
 [download]
-hash = '3d6b3fe1ea8278b397dffac0b2d3c4b8a9647ffdee29ce31b2882442ef6ca23f'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.11.5/ArchitectureCraft-1.11.5.jar'
+hash = "3d6b3fe1ea8278b397dffac0b2d3c4b8a9647ffdee29ce31b2882442ef6ca23f"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ArchitectureCraft/releases/download/1.11.5/ArchitectureCraft-1.11.5.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.11.5'
+usedApi = false
+version = "1.11.5"

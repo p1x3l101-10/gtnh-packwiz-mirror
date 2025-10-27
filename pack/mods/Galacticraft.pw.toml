@@ -1,12 +1,13 @@
-filename = 'Galacticraft-3.3.12-GTNH.jar'
-name = 'Galacticraft'
-side = 'both'
+filename = "Galacticraft-3.3.12-GTNH.jar"
+name = "Galacticraft"
+side = "both"
 
 [download]
-hash = 'eb0d15bb28826e05dbed68be1cd4ec5ceb09b2bf367b773adddb85391b4f56e8'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.12-GTNH/Galacticraft-3.3.12-GTNH.jar'
+hash = "eb0d15bb28826e05dbed68be1cd4ec5ceb09b2bf367b773adddb85391b4f56e8"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Galacticraft/releases/download/3.3.12-GTNH/Galacticraft-3.3.12-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '3.3.12-GTNH'
+usedApi = false
+version = "3.3.12-GTNH"

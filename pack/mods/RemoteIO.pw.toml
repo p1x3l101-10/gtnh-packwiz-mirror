@@ -1,12 +1,13 @@
-filename = 'RemoteIO-2.7.6.jar'
-name = 'RemoteIO'
-side = 'both'
+filename = "RemoteIO-2.7.6.jar"
+name = "RemoteIO"
+side = "both"
 
 [download]
-hash = '5df029435e2f223900f3829560e6c4121aa53c59d873d305a3b3095b14a328b3'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.6/RemoteIO-2.7.6.jar'
+hash = "5df029435e2f223900f3829560e6c4121aa53c59d873d305a3b3095b14a328b3"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/RemoteIO/releases/download/2.7.6/RemoteIO-2.7.6.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.7.6'
+usedApi = false
+version = "2.7.6"

@@ -1,12 +1,13 @@
-filename = 'Mantle-0.5.1.jar'
-name = 'Mantle'
-side = 'both'
+filename = "Mantle-0.5.1.jar"
+name = "Mantle"
+side = "both"
 
 [download]
-hash = '6a48d327d3442235a697b1cb57447e50e136374706c7a650262a533f16edd360'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Mantle/releases/download/0.5.1/Mantle-0.5.1.jar'
+hash = "6a48d327d3442235a697b1cb57447e50e136374706c7a650262a533f16edd360"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Mantle/releases/download/0.5.1/Mantle-0.5.1.jar"
 
 [x-generator]
 rateLimited = false
-version = '0.5.1'
+usedApi = false
+version = "0.5.1"

@@ -1,12 +1,13 @@
-filename = 'RandomThings-2.6.6.jar'
-name = 'Random-Things'
-side = 'both'
+filename = "RandomThings-2.6.6.jar"
+name = "Random-Things"
+side = "both"
 
 [download]
-hash = 'ce16dc3f5c0f48afd0d8e3e9335ec5cf2ee203da5738b7d2e15a7607cb896363'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.6/RandomThings-2.6.6.jar'
+hash = "ce16dc3f5c0f48afd0d8e3e9335ec5cf2ee203da5738b7d2e15a7607cb896363"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Random-Things/releases/download/2.6.6/RandomThings-2.6.6.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.6.6'
+usedApi = false
+version = "2.6.6"

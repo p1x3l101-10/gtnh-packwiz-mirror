@@ -1,12 +1,13 @@
-filename = 'eternalsingularity-1.2.1.jar'
-name = 'Eternal-Singularity'
-side = 'both'
+filename = "eternalsingularity-1.2.1.jar"
+name = "Eternal-Singularity"
+side = "both"
 
 [download]
-hash = 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Eternal-Singularity/releases/download/1.2.1/eternalsingularity-1.2.1.jar'
+hash = "428c5deae5978560cc1b8741d74c278d50c195efaa5a9de94c76de4c1cbc1965"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Eternal-Singularity/releases/download/1.2.1/eternalsingularity-1.2.1.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.2.1'
+usedApi = false
+version = "1.2.1"

@@ -1,12 +1,13 @@
-filename = 'InGameInfoXML-2.8.29.jar'
-name = 'InGame-Info-XML'
-side = 'both'
+filename = "InGameInfoXML-2.8.29.jar"
+name = "InGame-Info-XML"
+side = "both"
 
 [download]
-hash = '6fc600fa046cc2bd6accbe7acbbf1dfef5ce0a8b1be1372b4dbb7baa0c1a9243'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.29/InGameInfoXML-2.8.29.jar'
+hash = "6fc600fa046cc2bd6accbe7acbbf1dfef5ce0a8b1be1372b4dbb7baa0c1a9243"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/InGame-Info-XML/releases/download/2.8.29/InGameInfoXML-2.8.29.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.8.29'
+usedApi = false
+version = "2.8.29"

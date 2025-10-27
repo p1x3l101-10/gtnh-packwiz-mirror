@@ -1,12 +1,13 @@
-filename = 'BaublesExpanded-2.1.15-GTNH.jar'
-name = 'Baubles-Expanded'
-side = 'both'
+filename = "BaublesExpanded-2.1.15-GTNH.jar"
+name = "Baubles-Expanded"
+side = "both"
 
 [download]
-hash = '58c72ac357098633fb9c9dd1a985a4dcddc5f14d48079be906e6a17932e092f6'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.15-GTNH/BaublesExpanded-2.1.15-GTNH.jar'
+hash = "58c72ac357098633fb9c9dd1a985a4dcddc5f14d48079be906e6a17932e092f6"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Baubles-Expanded/releases/download/2.1.15-GTNH/BaublesExpanded-2.1.15-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.1.15-GTNH'
+usedApi = false
+version = "2.1.15-GTNH"

@@ -1,12 +1,13 @@
-filename = 'ProjRed-4.11.13-GTNH.jar'
-name = 'ProjectRed'
-side = 'both'
+filename = "ProjRed-4.11.13-GTNH.jar"
+name = "ProjectRed"
+side = "both"
 
 [download]
-hash = 'e3943d882b41d5c58492636b7a8418b491eed95accfeaf19f748cc06ea72a8ae'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.13-GTNH/ProjRed-4.11.13-GTNH.jar'
+hash = "e3943d882b41d5c58492636b7a8418b491eed95accfeaf19f748cc06ea72a8ae"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.11.13-GTNH/ProjRed-4.11.13-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '4.11.13-GTNH'
+usedApi = false
+version = "4.11.13-GTNH"

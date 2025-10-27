@@ -1,12 +1,13 @@
-filename = 'GalaxySpace-1.1.121-GTNH.jar'
-name = 'Galaxy-Space-GTNH'
-side = 'both'
+filename = "GalaxySpace-1.1.121-GTNH.jar"
+name = "Galaxy-Space-GTNH"
+side = "both"
 
 [download]
-hash = '3213620f57d4cb2c180519cf48da8e9dcd4a187fb353e06078067d9a2564bd99'
-hash-format = 'sha256'
-url = 'https://api.github.com/repos/GTNewHorizons/Galaxy-Space-GTNH/releases/assets/290033405'
+hash = "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Galaxy-Space-GTNH/releases/download/1.1.121-GTNH/GalaxySpace-1.1.121-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.1.121-GTNH'
+usedApi = false
+version = "1.1.121-GTNH"

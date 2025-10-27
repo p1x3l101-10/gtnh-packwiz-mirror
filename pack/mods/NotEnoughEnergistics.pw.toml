@@ -1,12 +1,13 @@
-filename = 'NotEnoughEnergistics-1.7.14.jar'
-name = 'NotEnoughEnergistics'
-side = 'both'
+filename = "NotEnoughEnergistics-1.7.14.jar"
+name = "NotEnoughEnergistics"
+side = "both"
 
 [download]
-hash = 'ba6654816eb0b4fba8aebf8035a0a40457d7d574cb02a8472cadad51ece75ebb'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.14/NotEnoughEnergistics-1.7.14.jar'
+hash = "ba6654816eb0b4fba8aebf8035a0a40457d7d574cb02a8472cadad51ece75ebb"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.7.14/NotEnoughEnergistics-1.7.14.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.7.14'
+usedApi = false
+version = "1.7.14"

@@ -1,12 +1,13 @@
-filename = 'GTNewHorizonsCoreMod-2.7.260.jar'
-name = 'NewHorizonsCoreMod'
-side = 'both'
+filename = "GTNewHorizonsCoreMod-2.7.260.jar"
+name = "NewHorizonsCoreMod"
+side = "both"
 
 [download]
-hash = '6971b2e320a69a6bdf8ff54bebc7d50b1906ce2656271ea64880f01017bfa1c3'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.260/GTNewHorizonsCoreMod-2.7.260.jar'
+hash = "6971b2e320a69a6bdf8ff54bebc7d50b1906ce2656271ea64880f01017bfa1c3"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/NewHorizonsCoreMod/releases/download/2.7.260/GTNewHorizonsCoreMod-2.7.260.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.7.260'
+usedApi = false
+version = "2.7.260"

@@ -1,12 +1,13 @@
-filename = 'Thaumic-Based-1.8.13.jar'
-name = 'ThaumicBases'
-side = 'both'
+filename = "Thaumic-Based-1.8.13.jar"
+name = "ThaumicBases"
+side = "both"
 
 [download]
-hash = '930123ad1dbc06e7ef83ff490b121fbd38c0ba8a0ece439bdb40a79a6879830c'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.8.13/Thaumic-Based-1.8.13.jar'
+hash = "930123ad1dbc06e7ef83ff490b121fbd38c0ba8a0ece439bdb40a79a6879830c"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.8.13/Thaumic-Based-1.8.13.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.8.13'
+usedApi = false
+version = "1.8.13"

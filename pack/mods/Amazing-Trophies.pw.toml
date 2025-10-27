@@ -1,12 +1,13 @@
-filename = 'amazingtrophies-1.3.8.jar'
-name = 'Amazing-Trophies'
-side = 'both'
+filename = "amazingtrophies-1.3.8.jar"
+name = "Amazing-Trophies"
+side = "both"
 
 [download]
-hash = 'b2167d322cac772eb679b7fd917f8122457339f361412593be0fe4a313bc0533'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Amazing-Trophies/releases/download/1.3.8/amazingtrophies-1.3.8.jar'
+hash = "b2167d322cac772eb679b7fd917f8122457339f361412593be0fe4a313bc0533"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Amazing-Trophies/releases/download/1.3.8/amazingtrophies-1.3.8.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.3.8'
+usedApi = false
+version = "1.3.8"

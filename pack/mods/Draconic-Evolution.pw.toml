@@ -1,12 +1,13 @@
-filename = 'Draconic-Evolution-1.4.27-GTNH.jar'
-name = 'Draconic-Evolution'
-side = 'both'
+filename = "Draconic-Evolution-1.4.27-GTNH.jar"
+name = "Draconic-Evolution"
+side = "both"
 
 [download]
-hash = '34a470894a4461353caeb57e7e02c803740d1dfbe9c2816da9d2a0ea4e3dcbcf'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.4.27-GTNH/Draconic-Evolution-1.4.27-GTNH.jar'
+hash = "34a470894a4461353caeb57e7e02c803740d1dfbe9c2816da9d2a0ea4e3dcbcf"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Draconic-Evolution/releases/download/1.4.27-GTNH/Draconic-Evolution-1.4.27-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.4.27-GTNH'
+usedApi = false
+version = "1.4.27-GTNH"

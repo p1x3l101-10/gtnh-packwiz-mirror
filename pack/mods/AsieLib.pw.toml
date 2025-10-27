@@ -1,12 +1,13 @@
-filename = 'AsieLib-0.7.0.jar'
-name = 'AsieLib'
-side = 'both'
+filename = "AsieLib-0.7.0.jar"
+name = "AsieLib"
+side = "both"
 
 [download]
-hash = 'f933c5f0af42a46a332e886b03cb7cc127e0101bc7198bec48ede03d497c11f8'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.0/AsieLib-0.7.0.jar'
+hash = "f933c5f0af42a46a332e886b03cb7cc127e0101bc7198bec48ede03d497c11f8"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/AsieLib/releases/download/0.7.0/AsieLib-0.7.0.jar"
 
 [x-generator]
 rateLimited = false
-version = '0.7.0'
+usedApi = false
+version = "0.7.0"

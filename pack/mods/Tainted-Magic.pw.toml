@@ -1,12 +1,13 @@
-filename = 'Tainted-Magic-7.6.26-GTNH.jar'
-name = 'Tainted-Magic'
-side = 'both'
+filename = "Tainted-Magic-7.6.26-GTNH.jar"
+name = "Tainted-Magic"
+side = "both"
 
 [download]
-hash = '1f8bb435b37c9e37967bc89859c8eb7c1dd8b783f97a2cebb7af62c96a4ecc46'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.26-GTNH/Tainted-Magic-7.6.26-GTNH.jar'
+hash = "1f8bb435b37c9e37967bc89859c8eb7c1dd8b783f97a2cebb7af62c96a4ecc46"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.26-GTNH/Tainted-Magic-7.6.26-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '7.6.26-GTNH'
+usedApi = false
+version = "7.6.26-GTNH"

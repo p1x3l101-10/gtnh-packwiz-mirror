@@ -1,12 +1,13 @@
-filename = 'OpenBlocks-1.11.7-GTNH.jar'
-name = 'OpenBlocks'
-side = 'both'
+filename = "OpenBlocks-1.11.7-GTNH.jar"
+name = "OpenBlocks"
+side = "both"
 
 [download]
-hash = '15ac094a90900cb7521165f9052dfaf0966283c50121c8f648faa2314d97707c'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.7-GTNH/OpenBlocks-1.11.7-GTNH.jar'
+hash = "15ac094a90900cb7521165f9052dfaf0966283c50121c8f648faa2314d97707c"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.11.7-GTNH/OpenBlocks-1.11.7-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.11.7-GTNH'
+usedApi = false
+version = "1.11.7-GTNH"

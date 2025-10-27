@@ -1,12 +1,13 @@
-filename = 'structurelib-1.4.23.jar'
-name = 'StructureLib'
-side = 'both'
+filename = "structurelib-1.4.23.jar"
+name = "StructureLib"
+side = "both"
 
 [download]
-hash = '56917dcfd48608d2baec7a11ad35cb7c8d0442e0dae66c7290d6ccb981d461db'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.23/structurelib-1.4.23.jar'
+hash = "56917dcfd48608d2baec7a11ad35cb7c8d0442e0dae66c7290d6ccb981d461db"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/StructureLib/releases/download/1.4.23/structurelib-1.4.23.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.4.23'
+usedApi = false
+version = "1.4.23"

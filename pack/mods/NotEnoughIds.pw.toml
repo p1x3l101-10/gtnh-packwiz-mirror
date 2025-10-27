@@ -1,12 +1,13 @@
-filename = 'notenoughIDs-2.1.10.jar'
-name = 'NotEnoughIds'
-side = 'both'
+filename = "notenoughIDs-2.1.10.jar"
+name = "NotEnoughIds"
+side = "both"
 
 [download]
-hash = 'b48446a5612458d404f40dac1f22ae5fbdc4208cd7b0c913148fda937cbd5cc4'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.1.10/notenoughIDs-2.1.10.jar'
+hash = "b48446a5612458d404f40dac1f22ae5fbdc4208cd7b0c913148fda937cbd5cc4"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/NotEnoughIds/releases/download/2.1.10/notenoughIDs-2.1.10.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.1.10'
+usedApi = false
+version = "2.1.10"

@@ -1,12 +1,13 @@
-filename = 'ServerUtilities-2.1.61.jar'
-name = 'ServerUtilities'
-side = 'both'
+filename = "ServerUtilities-2.1.61.jar"
+name = "ServerUtilities"
+side = "both"
 
 [download]
-hash = '87fbbbd2659dbd95517ea49def13e6d1ce395b5a3798de67edbd62eb50dcdf8a'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.61/ServerUtilities-2.1.61.jar'
+hash = "87fbbbd2659dbd95517ea49def13e6d1ce395b5a3798de67edbd62eb50dcdf8a"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.1.61/ServerUtilities-2.1.61.jar"
 
 [x-generator]
 rateLimited = false
-version = '2.1.61'
+usedApi = false
+version = "2.1.61"

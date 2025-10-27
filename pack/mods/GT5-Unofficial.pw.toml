@@ -1,12 +1,13 @@
-filename = 'gregtech-5.09.51.470.jar'
-name = 'GT5-Unofficial'
-side = 'both'
+filename = "gregtech-5.09.51.470.jar"
+name = "GT5-Unofficial"
+side = "both"
 
 [download]
-hash = 'c2054a2a6e233dd6d2d259b5a622c726dd8078a8955cd3d76cdaadc063b91e7c'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.470/gregtech-5.09.51.470.jar'
+hash = "c2054a2a6e233dd6d2d259b5a622c726dd8078a8955cd3d76cdaadc063b91e7c"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/GT5-Unofficial/releases/download/5.09.51.470/gregtech-5.09.51.470.jar"
 
 [x-generator]
 rateLimited = false
-version = '5.09.51.470'
+usedApi = false
+version = "5.09.51.470"

@@ -1,12 +1,13 @@
-filename = 'HardcoreEnderExpansion-1.12.13-GTNH.jar'
-name = 'Hardcore-Ender-Expansion'
-side = 'both'
+filename = "HardcoreEnderExpansion-1.12.13-GTNH.jar"
+name = "Hardcore-Ender-Expansion"
+side = "both"
 
 [download]
-hash = 'dd19644c1f3429e045199001e9427e80992e48d83a7e52d7a3ba3cf4f92c8aa3'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.13-GTNH/HardcoreEnderExpansion-1.12.13-GTNH.jar'
+hash = "dd19644c1f3429e045199001e9427e80992e48d83a7e52d7a3ba3cf4f92c8aa3"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Hardcore-Ender-Expansion/releases/download/1.12.13-GTNH/HardcoreEnderExpansion-1.12.13-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.12.13-GTNH'
+usedApi = false
+version = "1.12.13-GTNH"

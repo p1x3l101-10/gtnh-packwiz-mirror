@@ -1,12 +1,13 @@
-filename = 'EMT-1.6.17.jar'
-name = 'Electro-Magic-Tools'
-side = 'both'
+filename = "EMT-1.6.17.jar"
+name = "Electro-Magic-Tools"
+side = "both"
 
 [download]
-hash = '2bbdfc544400caa2954745bcf597b521f10cd1dbaa6c0f0c1a741f7fc1c8f053'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.17/EMT-1.6.17.jar'
+hash = "2bbdfc544400caa2954745bcf597b521f10cd1dbaa6c0f0c1a741f7fc1c8f053"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Electro-Magic-Tools/releases/download/1.6.17/EMT-1.6.17.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.6.17'
+usedApi = false
+version = "1.6.17"

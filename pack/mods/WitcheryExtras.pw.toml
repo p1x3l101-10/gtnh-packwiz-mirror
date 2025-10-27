@@ -1,12 +1,13 @@
-filename = 'WitcheryExtras-1.3.6.jar'
-name = 'WitcheryExtras'
-side = 'both'
+filename = "WitcheryExtras-1.3.6.jar"
+name = "WitcheryExtras"
+side = "both"
 
 [download]
-hash = 'c4b05de7cdfb2bde10248f3fbf4dafe83ba94de389458431dc72e8125d975e41'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.6/WitcheryExtras-1.3.6.jar'
+hash = "c4b05de7cdfb2bde10248f3fbf4dafe83ba94de389458431dc72e8125d975e41"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.3.6/WitcheryExtras-1.3.6.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.3.6'
+usedApi = false
+version = "1.3.6"

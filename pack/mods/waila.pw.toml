@@ -1,12 +1,13 @@
-filename = 'Waila-1.8.14.jar'
-name = 'waila'
-side = 'both'
+filename = "Waila-1.8.14.jar"
+name = "waila"
+side = "both"
 
 [download]
-hash = '9744085b817704e93e8622a6048f18c83180f9350f32262574571bdb42eb797d'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/waila/releases/download/1.8.14/Waila-1.8.14.jar'
+hash = "9744085b817704e93e8622a6048f18c83180f9350f32262574571bdb42eb797d"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/waila/releases/download/1.8.14/Waila-1.8.14.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.8.14'
+usedApi = false
+version = "1.8.14"

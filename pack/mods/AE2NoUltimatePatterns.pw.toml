@@ -1,12 +1,13 @@
-filename = 'ae2noultimatepatterns-1.0.1.jar'
-name = 'AE2NoUltimatePatterns'
-side = 'both'
+filename = "ae2noultimatepatterns-1.0.1.jar"
+name = "AE2NoUltimatePatterns"
+side = "both"
 
 [download]
-hash = 'b9d4f5f8e5ca4e65a26f9e1014375bcc38c8886f373ba253b2d0fb1a3c02c8ee'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/AE2NoUltimatePatterns/releases/download/1.0.1/ae2noultimatepatterns-1.0.1.jar'
+hash = "b9d4f5f8e5ca4e65a26f9e1014375bcc38c8886f373ba253b2d0fb1a3c02c8ee"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/AE2NoUltimatePatterns/releases/download/1.0.1/ae2noultimatepatterns-1.0.1.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.0.1'
+usedApi = false
+version = "1.0.1"

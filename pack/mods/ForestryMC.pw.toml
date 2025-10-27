@@ -1,12 +1,13 @@
-filename = 'Forestry-4.10.17.jar'
-name = 'ForestryMC'
-side = 'both'
+filename = "Forestry-4.10.17.jar"
+name = "ForestryMC"
+side = "both"
 
 [download]
-hash = 'b537738e29c242726ce7f356985bfd21214f7c8948ea0526e951dbe2f419a3fd'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.17/Forestry-4.10.17.jar'
+hash = "b537738e29c242726ce7f356985bfd21214f7c8948ea0526e951dbe2f419a3fd"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ForestryMC/releases/download/4.10.17/Forestry-4.10.17.jar"
 
 [x-generator]
 rateLimited = false
-version = '4.10.17'
+usedApi = false
+version = "4.10.17"

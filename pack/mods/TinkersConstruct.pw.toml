@@ -1,12 +1,13 @@
-filename = 'TConstruct-1.13.54-GTNH.jar'
-name = 'TinkersConstruct'
-side = 'both'
+filename = "TConstruct-1.13.54-GTNH.jar"
+name = "TinkersConstruct"
+side = "both"
 
 [download]
-hash = '7bea861e7aa122bc4b2e7024fd77bdc0f8eec9598e4a31ba552919b001533aef'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.54-GTNH/TConstruct-1.13.54-GTNH.jar'
+hash = "7bea861e7aa122bc4b2e7024fd77bdc0f8eec9598e4a31ba552919b001533aef"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.13.54-GTNH/TConstruct-1.13.54-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.13.54-GTNH'
+usedApi = false
+version = "1.13.54-GTNH"

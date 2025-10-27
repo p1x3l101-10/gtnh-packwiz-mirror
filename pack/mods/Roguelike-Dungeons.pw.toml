@@ -1,12 +1,13 @@
-filename = 'roguelike-1.6.6-GTNH.jar'
-name = 'Roguelike-Dungeons'
-side = 'both'
+filename = "roguelike-1.6.6-GTNH.jar"
+name = "Roguelike-Dungeons"
+side = "both"
 
 [download]
-hash = '4fd9a362e517d3096432a7c9664d3bbcbb39b9e337c0175903a3a04ea8632f60'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.6-GTNH/roguelike-1.6.6-GTNH.jar'
+hash = "4fd9a362e517d3096432a7c9664d3bbcbb39b9e337c0175903a3a04ea8632f60"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Roguelike-Dungeons/releases/download/1.6.6-GTNH/roguelike-1.6.6-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.6.6-GTNH'
+usedApi = false
+version = "1.6.6-GTNH"

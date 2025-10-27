@@ -1,12 +1,13 @@
-filename = 'betterloadingscreen-1.7.2-GTNH.jar'
-name = 'BetterLoadingScreen'
-side = 'client'
+filename = "betterloadingscreen-1.7.2-GTNH.jar"
+name = "BetterLoadingScreen"
+side = "client"
 
 [download]
-hash = '8f9fddd7e341c05c674766e6fcbf374f0ec66233ab0688366c42ebd6f3ef1d6f'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.2-GTNH/betterloadingscreen-1.7.2-GTNH.jar'
+hash = "8f9fddd7e341c05c674766e6fcbf374f0ec66233ab0688366c42ebd6f3ef1d6f"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BetterLoadingScreen/releases/download/1.7.2-GTNH/betterloadingscreen-1.7.2-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.7.2-GTNH'
+usedApi = false
+version = "1.7.2-GTNH"

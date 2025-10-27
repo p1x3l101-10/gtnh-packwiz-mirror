@@ -1,12 +1,13 @@
-filename = 'Avaritia-1.75.jar'
-name = 'Avaritia'
-side = 'both'
+filename = "Avaritia-1.75.jar"
+name = "Avaritia"
+side = "both"
 
 [download]
-hash = 'e9bfd21a78b7374fb01fab8f19779424c322bfe9bb06b5dbd9acd3ef83d0c8ea'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Avaritia/releases/download/1.75/Avaritia-1.75.jar'
+hash = "e9bfd21a78b7374fb01fab8f19779424c322bfe9bb06b5dbd9acd3ef83d0c8ea"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Avaritia/releases/download/1.75/Avaritia-1.75.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.75'
+usedApi = false
+version = "1.75"

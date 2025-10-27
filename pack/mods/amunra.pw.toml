@@ -1,12 +1,13 @@
-filename = 'AmunRa-GC-0.8.2.jar'
-name = 'amunra'
-side = 'both'
+filename = "AmunRa-GC-0.8.2.jar"
+name = "amunra"
+side = "both"
 
 [download]
-hash = 'bcd0ca636d545a0f361f6583fd667bd40ca4b79198fc06d1552038310a7b1978'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/amunra/releases/download/0.8.2/AmunRa-GC-0.8.2.jar'
+hash = "bcd0ca636d545a0f361f6583fd667bd40ca4b79198fc06d1552038310a7b1978"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/amunra/releases/download/0.8.2/AmunRa-GC-0.8.2.jar"
 
 [x-generator]
 rateLimited = false
-version = '0.8.2'
+usedApi = false
+version = "0.8.2"

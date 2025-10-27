@@ -1,12 +1,13 @@
-filename = 'NEIAddons-1.17.0.jar'
-name = 'neiaddons'
-side = 'both'
+filename = "NEIAddons-1.17.0.jar"
+name = "neiaddons"
+side = "both"
 
 [download]
-hash = 'bfac8b5ff2c2b67a3a0d6e6eea791279f97c7de65fc9488e77f974e7bf75967a'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/neiaddons/releases/download/1.17.0/NEIAddons-1.17.0.jar'
+hash = "bfac8b5ff2c2b67a3a0d6e6eea791279f97c7de65fc9488e77f974e7bf75967a"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/neiaddons/releases/download/1.17.0/NEIAddons-1.17.0.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.17.0'
+usedApi = false
+version = "1.17.0"

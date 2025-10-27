@@ -1,12 +1,13 @@
-filename = 'thaumicboots-1.4.14.jar'
-name = 'ThaumicBoots'
-side = 'both'
+filename = "thaumicboots-1.4.14.jar"
+name = "ThaumicBoots"
+side = "both"
 
 [download]
-hash = '7b7564a255f22d7a1c073b16a8cc34ed2815112eb9e8e1685f3a8144e27c10c5'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.4.14/thaumicboots-1.4.14.jar'
+hash = "7b7564a255f22d7a1c073b16a8cc34ed2815112eb9e8e1685f3a8144e27c10c5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ThaumicBoots/releases/download/1.4.14/thaumicboots-1.4.14.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.4.14'
+usedApi = false
+version = "1.4.14"

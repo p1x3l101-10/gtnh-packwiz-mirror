@@ -1,9 +1,14 @@
-author = 'DreamMasterXXL'
-name = 'GregTech: New Horizons'
-pack-format = 'packwiz:1.1.0'
-version = '2.8.0'
+author = "DreamMasterXXL"
+name = "GregTech: New Horizons"
+pack-format = "packwiz:1.1.0"
+version = "2.8.0"
 
 [index]
-file = 'index.toml'
-hash = 'c53632ac107bf1070c9636ff222de176cbab572cde66209e792e5d97b8bf033a'
-hash-format = 'sha256'
+file = "index.toml"
+hash = "1fbcec231c9016581e9862b8365db5937a4f1acb7a9313e622276f9168e3f57f"
+hash-format = "sha256"
+
+[versions]
+forge3 = "10.13.4.1614"
+minecraft = "1.7.10"
+unsup = "1.1.5"

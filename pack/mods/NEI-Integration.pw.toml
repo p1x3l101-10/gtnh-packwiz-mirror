@@ -1,12 +1,13 @@
-filename = 'NEIIntegration-1.5.0.jar'
-name = 'NEI-Integration'
-side = 'both'
+filename = "NEIIntegration-1.5.0.jar"
+name = "NEI-Integration"
+side = "both"
 
 [download]
-hash = '15f319778db853336427848473174b1093fc607cd13b60e215344bd07edfb258'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.5.0/NEIIntegration-1.5.0.jar'
+hash = "15f319778db853336427848473174b1093fc607cd13b60e215344bd07edfb258"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.5.0/NEIIntegration-1.5.0.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.5.0'
+usedApi = false
+version = "1.5.0"

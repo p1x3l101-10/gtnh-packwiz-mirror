@@ -1,12 +1,13 @@
-filename = 'mobsinfo-0.5.4-GTNH.jar'
-name = 'Mobs-Info'
-side = 'both'
+filename = "mobsinfo-0.5.4-GTNH.jar"
+name = "Mobs-Info"
+side = "both"
 
 [download]
-hash = '0a606a532f429ca4b7dc44a1bfecce24ea875e64b94ec6ed34f150d0f2044c27'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.4-GTNH/mobsinfo-0.5.4-GTNH.jar'
+hash = "0a606a532f429ca4b7dc44a1bfecce24ea875e64b94ec6ed34f150d0f2044c27"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Mobs-Info/releases/download/0.5.4-GTNH/mobsinfo-0.5.4-GTNH.jar"
 
 [x-generator]
 rateLimited = false
-version = '0.5.4-GTNH'
+usedApi = false
+version = "0.5.4-GTNH"

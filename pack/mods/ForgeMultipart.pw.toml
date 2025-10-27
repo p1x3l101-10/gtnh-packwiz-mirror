@@ -1,12 +1,13 @@
-filename = 'ForgeMultipart-1.6.8.jar'
-name = 'ForgeMultipart'
-side = 'both'
+filename = "ForgeMultipart-1.6.8.jar"
+name = "ForgeMultipart"
+side = "both"
 
 [download]
-hash = '7e2907bc37885bb4b523f1fe4dc1938acd0fc1a0a94349d64d68c9561a38f191'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar'
+hash = "7e2907bc37885bb4b523f1fe4dc1938acd0fc1a0a94349d64d68c9561a38f191"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ForgeMultipart/releases/download/1.6.8/ForgeMultipart-1.6.8.jar"
 
 [x-generator]
 rateLimited = false
-version = '1.6.8'
+usedApi = false
+version = "1.6.8"

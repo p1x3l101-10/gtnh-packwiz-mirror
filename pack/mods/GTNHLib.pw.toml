@@ -1,12 +1,13 @@
-filename = 'gtnhlib-0.6.40.jar'
-name = 'GTNHLib'
-side = 'both'
+filename = "gtnhlib-0.6.40.jar"
+name = "GTNHLib"
+side = "both"
 
 [download]
-hash = 'a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.40/gtnhlib-0.6.40.jar'
+hash = "a59da7c0bce389c9a7ff77a58318e4a41f5fd5faaa2f74994dd540502feaeb47"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/GTNHLib/releases/download/0.6.40/gtnhlib-0.6.40.jar"
 
 [x-generator]
 rateLimited = false
-version = '0.6.40'
+usedApi = false
+version = "0.6.40"
