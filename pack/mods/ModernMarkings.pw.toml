@@ -1,13 +1,13 @@
-filename = 'modernmarkings-0.3.12-1.7.10.jar'
-name = 'ModernMarkings'
-side = 'both'
+filename = "modernmarkings-0.3.12-1.7.10.jar"
+name = "ModernMarkings"
+side = "both"
 
 [download]
-hash = 'bcd5fd1740b16c373072b2a7e971d9f30971c5c11c14fd77c6f8fa61c04b080a'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ModernMarkings/releases/download/0.3.12-1.7.10/modernmarkings-0.3.12-1.7.10.jar'
+hash = "bcd5fd1740b16c373072b2a7e971d9f30971c5c11c14fd77c6f8fa61c04b080a"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ModernMarkings/releases/download/0.3.12-1.7.10/modernmarkings-0.3.12-1.7.10.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.3.12-1.7.10'
+version = "0.3.12-1.7.10"

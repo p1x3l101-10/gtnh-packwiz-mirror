@@ -1,13 +1,13 @@
-filename = 'BetterQuesting-3.7.15-GTNH.jar'
-name = 'BetterQuesting'
-side = 'both'
+filename = "BetterQuesting-3.7.15-GTNH.jar"
+name = "BetterQuesting"
+side = "both"
 
 [download]
-hash = '9f72317dda06cd883109e9852f2536625412e874c39aa0cb8b70663b716bdbb5'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.15-GTNH/BetterQuesting-3.7.15-GTNH.jar'
+hash = "9f72317dda06cd883109e9852f2536625412e874c39aa0cb8b70663b716bdbb5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BetterQuesting/releases/download/3.7.15-GTNH/BetterQuesting-3.7.15-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '3.7.15-GTNH'
+version = "3.7.15-GTNH"

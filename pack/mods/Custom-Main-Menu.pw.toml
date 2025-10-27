@@ -1,13 +1,13 @@
-filename = 'custommainmenu-1.12.2.jar'
-name = 'Custom-Main-Menu'
-side = 'client'
+filename = "custommainmenu-1.12.2.jar"
+name = "Custom-Main-Menu"
+side = "client"
 
 [download]
-hash = '69137a1c52a35712b29481627f6ed96fdc34486220023c4e410160c474979ee2'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.12.2/custommainmenu-1.12.2.jar'
+hash = "69137a1c52a35712b29481627f6ed96fdc34486220023c4e410160c474979ee2"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.12.2/custommainmenu-1.12.2.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.12.2'
+version = "1.12.2"

@@ -1,13 +1,13 @@
-filename = 'matter-manipulator-0.0.51-GTNH.jar'
-name = 'MatterManipulator'
-side = 'both'
+filename = "matter-manipulator-0.0.51-GTNH.jar"
+name = "MatterManipulator"
+side = "both"
 
 [download]
-hash = 'baaa14b418818dba8469421beca370011233096a577a9507431c830e73217946'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.51-GTNH/matter-manipulator-0.0.51-GTNH.jar'
+hash = "baaa14b418818dba8469421beca370011233096a577a9507431c830e73217946"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/MatterManipulator/releases/download/0.0.51-GTNH/matter-manipulator-0.0.51-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.0.51-GTNH'
+version = "0.0.51-GTNH"

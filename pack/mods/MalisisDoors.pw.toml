@@ -1,13 +1,13 @@
-filename = 'malisisdoors-1.18.2-GTNH.jar'
-name = 'MalisisDoors'
-side = 'both'
+filename = "malisisdoors-1.18.2-GTNH.jar"
+name = "MalisisDoors"
+side = "both"
 
 [download]
-hash = '4293712bda3c1c73bd629354a06f52c00c884a664d56bbba4a52ed89a01d29c4'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.18.2-GTNH/malisisdoors-1.18.2-GTNH.jar'
+hash = "4293712bda3c1c73bd629354a06f52c00c884a664d56bbba4a52ed89a01d29c4"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.18.2-GTNH/malisisdoors-1.18.2-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.18.2-GTNH'
+version = "1.18.2-GTNH"

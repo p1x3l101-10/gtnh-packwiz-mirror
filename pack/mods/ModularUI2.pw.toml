@@ -1,13 +1,13 @@
-filename = 'modularui2-2.2.18-1.7.10.jar'
-name = 'ModularUI2'
-side = 'both'
+filename = "modularui2-2.2.18-1.7.10.jar"
+name = "ModularUI2"
+side = "both"
 
 [download]
-hash = '0b993a752a1ba8bb9ec2637d9027a4b812e6a1217aec03f3baeb7af43e672fa7'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.18-1.7.10/modularui2-2.2.18-1.7.10.jar'
+hash = "0b993a752a1ba8bb9ec2637d9027a4b812e6a1217aec03f3baeb7af43e672fa7"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ModularUI2/releases/download/2.2.18-1.7.10/modularui2-2.2.18-1.7.10.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.2.18-1.7.10'
+version = "2.2.18-1.7.10"

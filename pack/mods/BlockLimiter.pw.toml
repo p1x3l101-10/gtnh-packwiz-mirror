@@ -1,13 +1,13 @@
-filename = 'BlockLimiter-0.7.0.jar'
-name = 'BlockLimiter'
-side = 'both'
+filename = "BlockLimiter-0.7.0.jar"
+name = "BlockLimiter"
+side = "both"
 
 [download]
-hash = 'e0678e6c4fcece7e7d81774a954513f7a860b824bbc9a82ca50707e3ee7219e2'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BlockLimiter/releases/download/0.7.0/BlockLimiter-0.7.0.jar'
+hash = "e0678e6c4fcece7e7d81774a954513f7a860b824bbc9a82ca50707e3ee7219e2"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BlockLimiter/releases/download/0.7.0/BlockLimiter-0.7.0.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.7.0'
+version = "0.7.0"

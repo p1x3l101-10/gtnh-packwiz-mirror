@@ -1,13 +1,13 @@
-filename = 'backpack-2.5.10-GTNH.jar'
-name = 'Minecraft-Backpack-Mod'
-side = 'both'
+filename = "backpack-2.5.10-GTNH.jar"
+name = "Minecraft-Backpack-Mod"
+side = "both"
 
 [download]
-hash = '1cde161b69d4e676272eae6bc263f8f76964164a4f2eb5309eaf65808fa22d24'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.5.10-GTNH/backpack-2.5.10-GTNH.jar'
+hash = "1cde161b69d4e676272eae6bc263f8f76964164a4f2eb5309eaf65808fa22d24"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.5.10-GTNH/backpack-2.5.10-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.5.10-GTNH'
+version = "2.5.10-GTNH"

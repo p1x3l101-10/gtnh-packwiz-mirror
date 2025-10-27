@@ -1,13 +1,13 @@
-filename = 'ifu-1.11.2.jar'
-name = 'IFU'
-side = 'both'
+filename = "ifu-1.11.2.jar"
+name = "IFU"
+side = "both"
 
 [download]
-hash = 'ffb352511f05b98bd0bafc9729c6fbbccf3c5b6a2b07a74548e808a8ab3e2594'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/IFU/releases/download/1.11.2/ifu-1.11.2.jar'
+hash = "ffb352511f05b98bd0bafc9729c6fbbccf3c5b6a2b07a74548e808a8ab3e2594"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/IFU/releases/download/1.11.2/ifu-1.11.2.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.11.2'
+version = "1.11.2"

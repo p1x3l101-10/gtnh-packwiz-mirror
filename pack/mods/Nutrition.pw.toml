@@ -1,13 +1,13 @@
-filename = 'nutrition-0.1.3.jar'
-name = 'Nutrition'
-side = 'both'
+filename = "nutrition-0.1.3.jar"
+name = "Nutrition"
+side = "both"
 
 [download]
-hash = '3702ea873f03f4c94d6ce77d8ab55bc91bdb291ddabf8952be3a10c89aa4bd1e'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.3/nutrition-0.1.3.jar'
+hash = "3702ea873f03f4c94d6ce77d8ab55bc91bdb291ddabf8952be3a10c89aa4bd1e"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Nutrition/releases/download/0.1.3/nutrition-0.1.3.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.1.3'
+version = "0.1.3"

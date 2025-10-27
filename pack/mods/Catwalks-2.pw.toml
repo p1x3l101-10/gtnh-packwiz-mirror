@@ -1,13 +1,13 @@
-filename = 'catwalks-2.4.0-GTNH.jar'
-name = 'Catwalks-2'
-side = 'both'
+filename = "catwalks-2.4.0-GTNH.jar"
+name = "Catwalks-2"
+side = "both"
 
 [download]
-hash = '3213620f57d4cb2c180519cf48da8e9dcd4a187fb353e06078067d9a2564bd99'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Catwalks-2/releases/download/2.4.0-GTNH/catwalks-2.4.0-GTNH.jar'
+hash = "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Catwalks-2/releases/download/2.4.0-GTNH/catwalks-2.4.0-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.4.0-GTNH'
+version = "2.4.0-GTNH"

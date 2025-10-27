@@ -1,13 +1,13 @@
-filename = 'lwjgl3ify-2.1.16.jar'
-name = 'lwjgl3ify'
-side = 'both'
+filename = "lwjgl3ify-2.1.16.jar"
+name = "lwjgl3ify"
+side = "both"
 
 [download]
-hash = '3df3bd460bc142340388e81e50f8aa702155c8e0be0cc8347a39c28cefb82bf5'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar'
+hash = "3df3bd460bc142340388e81e50f8aa702155c8e0be0cc8347a39c28cefb82bf5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/lwjgl3ify/releases/download/2.1.16/lwjgl3ify-2.1.16.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.1.16'
+version = "2.1.16"

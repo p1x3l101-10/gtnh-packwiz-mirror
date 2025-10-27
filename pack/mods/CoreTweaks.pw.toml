@@ -1,13 +1,13 @@
-filename = 'coretweaks-0.3.3.6-GTNH.jar'
-name = 'CoreTweaks'
-side = 'both'
+filename = "coretweaks-0.3.3.6-GTNH.jar"
+name = "CoreTweaks"
+side = "both"
 
 [download]
-hash = 'd19d8511599fd3ba5638f2eb4c0d7b3ad81a7816a9fff42e9785b3dc9310ee20'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.6-GTNH/coretweaks-0.3.3.6-GTNH.jar'
+hash = "d19d8511599fd3ba5638f2eb4c0d7b3ad81a7816a9fff42e9785b3dc9310ee20"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/CoreTweaks/releases/download/0.3.3.6-GTNH/coretweaks-0.3.3.6-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.3.3.6-GTNH'
+version = "0.3.3.6-GTNH"

@@ -1,13 +1,13 @@
-filename = 'thaumicenergistics-1.7.14-GTNH.jar'
-name = 'ThaumicEnergistics'
-side = 'both'
+filename = "thaumicenergistics-1.7.14-GTNH.jar"
+name = "ThaumicEnergistics"
+side = "both"
 
 [download]
-hash = '199fb55fc2e52b0bde3b600ba696ae261451e258538e4a11cdc9c896d5c1e5f8'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.14-GTNH/thaumicenergistics-1.7.14-GTNH.jar'
+hash = "199fb55fc2e52b0bde3b600ba696ae261451e258538e4a11cdc9c896d5c1e5f8"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.7.14-GTNH/thaumicenergistics-1.7.14-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.14-GTNH'
+version = "1.7.14-GTNH"

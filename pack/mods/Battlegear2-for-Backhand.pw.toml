@@ -1,13 +1,13 @@
-filename = 'battlegear2-1.5.9-backhand.jar'
-name = 'Battlegear2-for-Backhand'
-side = 'both'
+filename = "battlegear2-1.5.9-backhand.jar"
+name = "Battlegear2-for-Backhand"
+side = "both"
 
 [download]
-hash = '23f92133fbc3d7311dc2c2d8b61b938e788d850b1b18eae5ac41f6ad5b125a83'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.5.9-backhand/battlegear2-1.5.9-backhand.jar'
+hash = "23f92133fbc3d7311dc2c2d8b61b938e788d850b1b18eae5ac41f6ad5b125a83"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Battlegear2-for-Backhand/releases/download/1.5.9-backhand/battlegear2-1.5.9-backhand.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.5.9-backhand'
+version = "1.5.9-backhand"

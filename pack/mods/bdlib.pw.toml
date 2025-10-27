@@ -1,13 +1,13 @@
-filename = 'bdlib-1.11.0-GTNH.jar'
-name = 'bdlib'
-side = 'both'
+filename = "bdlib-1.11.0-GTNH.jar"
+name = "bdlib"
+side = "both"
 
 [download]
-hash = '130e6e88b8a3340a7518eef3ba313877b7a08149693980fa10c5d8b4f9da3095'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/bdlib/releases/download/1.11.0-GTNH/bdlib-1.11.0-GTNH.jar'
+hash = "130e6e88b8a3340a7518eef3ba313877b7a08149693980fa10c5d8b4f9da3095"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/bdlib/releases/download/1.11.0-GTNH/bdlib-1.11.0-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.11.0-GTNH'
+version = "1.11.0-GTNH"

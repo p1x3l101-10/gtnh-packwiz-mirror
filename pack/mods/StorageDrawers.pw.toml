@@ -1,13 +1,13 @@
-filename = 'StorageDrawers-2.1.9-GTNH.jar'
-name = 'StorageDrawers'
-side = 'both'
+filename = "StorageDrawers-2.1.9-GTNH.jar"
+name = "StorageDrawers"
+side = "both"
 
 [download]
-hash = '8d1512659b96c82f66e5b79133e3fde2dd143f43625d4d78e4c21199ee536732'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.9-GTNH/StorageDrawers-2.1.9-GTNH.jar'
+hash = "8d1512659b96c82f66e5b79133e3fde2dd143f43625d4d78e4c21199ee536732"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/StorageDrawers/releases/download/2.1.9-GTNH/StorageDrawers-2.1.9-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.1.9-GTNH'
+version = "2.1.9-GTNH"

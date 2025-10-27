@@ -1,13 +1,13 @@
-filename = 'hodgepodge-2.6.110.jar'
-name = 'Hodgepodge'
-side = 'both'
+filename = "hodgepodge-2.6.110.jar"
+name = "Hodgepodge"
+side = "both"
 
 [download]
-hash = '083f8bc29f84cfbc9858a10696bc8e9cd9930877c4d990e7f2b9d382c35657d9'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.110/hodgepodge-2.6.110.jar'
+hash = "083f8bc29f84cfbc9858a10696bc8e9cd9930877c4d990e7f2b9d382c35657d9"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.6.110/hodgepodge-2.6.110.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.6.110'
+version = "2.6.110"

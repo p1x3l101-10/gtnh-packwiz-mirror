@@ -1,13 +1,13 @@
-filename = 'endercore-0.4.8.jar'
-name = 'EnderCore'
-side = 'both'
+filename = "endercore-0.4.8.jar"
+name = "EnderCore"
+side = "both"
 
 [download]
-hash = '033e83eb4fea36edb5aacdfca6936552fc1bbb0161b4cfdab341f5a86bdb0f14'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.8/endercore-0.4.8.jar'
+hash = "033e83eb4fea36edb5aacdfca6936552fc1bbb0161b4cfdab341f5a86bdb0f14"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.4.8/endercore-0.4.8.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.4.8'
+version = "0.4.8"

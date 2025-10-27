@@ -1,13 +1,13 @@
-filename = 'CodeChickenCore-1.4.7.jar'
-name = 'CodeChickenCore'
-side = 'both'
+filename = "CodeChickenCore-1.4.7.jar"
+name = "CodeChickenCore"
+side = "both"
 
 [download]
-hash = '3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.7/CodeChickenCore-1.4.7.jar'
+hash = "3e5200db5c81df3cca7a15ee0729136654d791e8e598cd977a8b53dd59212b11"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.7/CodeChickenCore-1.4.7.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.7'
+version = "1.4.7"

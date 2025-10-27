@@ -1,13 +1,13 @@
-filename = 'ae2fc-1.4.115-gtnh.jar'
-name = 'AE2FluidCraft-Rework'
-side = 'both'
+filename = "ae2fc-1.4.115-gtnh.jar"
+name = "AE2FluidCraft-Rework"
+side = "both"
 
 [download]
-hash = '272d17a0a03f7284320504f6fe82502d824347446b65e108398389a3d02a681e'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.115-gtnh/ae2fc-1.4.115-gtnh.jar'
+hash = "272d17a0a03f7284320504f6fe82502d824347446b65e108398389a3d02a681e"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.4.115-gtnh/ae2fc-1.4.115-gtnh.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.115-gtnh'
+version = "1.4.115-gtnh"

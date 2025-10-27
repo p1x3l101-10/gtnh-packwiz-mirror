@@ -1,13 +1,13 @@
-filename = 'adventurebackpack-1.3.11-GTNH.jar'
-name = 'AdventureBackpack2'
-side = 'both'
+filename = "adventurebackpack-1.3.11-GTNH.jar"
+name = "AdventureBackpack2"
+side = "both"
 
 [download]
-hash = 'd0d661fcf4a85b67738df1559cd7c106398b595ec8b006f5e67887cb482c64d2'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.3.11-GTNH/adventurebackpack-1.3.11-GTNH.jar'
+hash = "d0d661fcf4a85b67738df1559cd7c106398b595ec8b006f5e67887cb482c64d2"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/AdventureBackpack2/releases/download/1.3.11-GTNH/adventurebackpack-1.3.11-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.3.11-GTNH'
+version = "1.3.11-GTNH"

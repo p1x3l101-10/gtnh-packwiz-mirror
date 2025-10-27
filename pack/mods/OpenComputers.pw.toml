@@ -1,13 +1,13 @@
-filename = 'OpenComputers-1.11.20-GTNH.jar'
-name = 'OpenComputers'
-side = 'both'
+filename = "OpenComputers-1.11.20-GTNH.jar"
+name = "OpenComputers"
+side = "both"
 
 [download]
-hash = 'a836a38f5ec4cf71db35c0eef5c0fa5b2a36c612ea6b52da707cf9ee04557fc5'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.20-GTNH/OpenComputers-1.11.20-GTNH.jar'
+hash = "a836a38f5ec4cf71db35c0eef5c0fa5b2a36c612ea6b52da707cf9ee04557fc5"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/OpenComputers/releases/download/1.11.20-GTNH/OpenComputers-1.11.20-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.11.20-GTNH'
+version = "1.11.20-GTNH"

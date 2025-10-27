@@ -1,13 +1,13 @@
-filename = 'StevesCarts-2.3.12.jar'
-name = 'SC2'
-side = 'both'
+filename = "StevesCarts-2.3.12.jar"
+name = "SC2"
+side = "both"
 
 [download]
-hash = 'cb561db0bed4a106b483a739718f148aee26ec28724d6f831042c159a3f17af6'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts-2.3.12.jar'
+hash = "cb561db0bed4a106b483a739718f148aee26ec28724d6f831042c159a3f17af6"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/SC2/releases/download/2.3.12/StevesCarts-2.3.12.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.3.12'
+version = "2.3.12"

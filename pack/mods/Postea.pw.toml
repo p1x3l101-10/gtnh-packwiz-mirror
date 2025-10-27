@@ -1,13 +1,13 @@
-filename = 'postea-1.1.3.jar'
-name = 'Postea'
-side = 'both'
+filename = "postea-1.1.3.jar"
+name = "Postea"
+side = "both"
 
 [download]
-hash = '605c6086a8984beec112e12525f2dbde4863924a9f7169e23f67d9b95e213c16'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Postea/releases/download/1.1.3/postea-1.1.3.jar'
+hash = "605c6086a8984beec112e12525f2dbde4863924a9f7169e23f67d9b95e213c16"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Postea/releases/download/1.1.3/postea-1.1.3.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.1.3'
+version = "1.1.3"

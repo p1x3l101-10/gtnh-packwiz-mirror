@@ -1,13 +1,13 @@
-filename = 'TMechworks-0.4.1.jar'
-name = 'TinkersMechworks'
-side = 'both'
+filename = "TMechworks-0.4.1.jar"
+name = "TinkersMechworks"
+side = "both"
 
 [download]
-hash = '1537134937b425001a96f498b94a4bfb7474f2b1d9d387ce208eeb502b47e841'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.1/TMechworks-0.4.1.jar'
+hash = "1537134937b425001a96f498b94a4bfb7474f2b1d9d387ce208eeb502b47e841"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/TinkersMechworks/releases/download/0.4.1/TMechworks-0.4.1.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.4.1'
+version = "0.4.1"

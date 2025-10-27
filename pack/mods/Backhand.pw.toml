@@ -1,13 +1,13 @@
-filename = 'backhand-1.7.7.jar'
-name = 'Backhand'
-side = 'both'
+filename = "backhand-1.7.7.jar"
+name = "Backhand"
+side = "both"
 
 [download]
-hash = '8e4d6fea1c6f9a42d5694b93fcb8cbf208688860ec8341e1250b65775cb023a6'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Backhand/releases/download/1.7.7/backhand-1.7.7.jar'
+hash = "8e4d6fea1c6f9a42d5694b93fcb8cbf208688860ec8341e1250b65775cb023a6"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Backhand/releases/download/1.7.7/backhand-1.7.7.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.7'
+version = "1.7.7"

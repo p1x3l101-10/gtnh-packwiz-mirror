@@ -1,13 +1,13 @@
-filename = 'MrTJPCore-1.3.4.jar'
-name = 'MrTJPCore'
-side = 'both'
+filename = "MrTJPCore-1.3.4.jar"
+name = "MrTJPCore"
+side = "both"
 
 [download]
-hash = 'b4e982d949b5a6720ecdbe5b652ba68f74b2d56869842701fc2e3973a39a9ac9'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.4/MrTJPCore-1.3.4.jar'
+hash = "b4e982d949b5a6720ecdbe5b652ba68f74b2d56869842701fc2e3973a39a9ac9"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.3.4/MrTJPCore-1.3.4.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.3.4'
+version = "1.3.4"

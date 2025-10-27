@@ -1,13 +1,13 @@
-filename = 'OpenModsLibs-0.10.11.jar'
-name = 'OpenModsLib'
-side = 'both'
+filename = "OpenModsLibs-0.10.11.jar"
+name = "OpenModsLib"
+side = "both"
 
 [download]
-hash = '74ed0e05f1d1f1c70599dcb560f508bf37c25b7ccb9c542143c14de052b04e4a'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.11/OpenModsLibs-0.10.11.jar'
+hash = "74ed0e05f1d1f1c70599dcb560f508bf37c25b7ccb9c542143c14de052b04e4a"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.11/OpenModsLibs-0.10.11.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.10.11'
+version = "0.10.11"

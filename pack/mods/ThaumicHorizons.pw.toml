@@ -1,13 +1,13 @@
-filename = 'ThaumicHorizons-1.7.9.jar'
-name = 'ThaumicHorizons'
-side = 'both'
+filename = "ThaumicHorizons-1.7.9.jar"
+name = "ThaumicHorizons"
+side = "both"
 
 [download]
-hash = '996f9c1d3679cd56f9b82caba7853a004b4cf1e82c449121802552a7b55ee412'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.7.9/ThaumicHorizons-1.7.9.jar'
+hash = "996f9c1d3679cd56f9b82caba7853a004b4cf1e82c449121802552a7b55ee412"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ThaumicHorizons/releases/download/1.7.9/ThaumicHorizons-1.7.9.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.9'
+version = "1.7.9"

@@ -1,13 +1,13 @@
-filename = 'logisticspipes-1.4.24-GTNH.jar'
-name = 'LogisticsPipes'
-side = 'both'
+filename = "logisticspipes-1.4.24-GTNH.jar"
+name = "LogisticsPipes"
+side = "both"
 
 [download]
-hash = 'ade88fd46bd851ead0ce55b988b900dcbde262aa11f549e0bd06cee9a0f601c4'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.4.24-GTNH/logisticspipes-1.4.24-GTNH.jar'
+hash = "ade88fd46bd851ead0ce55b988b900dcbde262aa11f549e0bd06cee9a0f601c4"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/LogisticsPipes/releases/download/1.4.24-GTNH/logisticspipes-1.4.24-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.24-GTNH'
+version = "1.4.24-GTNH"

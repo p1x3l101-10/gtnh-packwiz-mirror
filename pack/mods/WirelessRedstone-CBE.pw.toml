@@ -1,13 +1,13 @@
-filename = 'WR-CBE-1.7.1.jar'
-name = 'WirelessRedstone-CBE'
-side = 'both'
+filename = "WR-CBE-1.7.1.jar"
+name = "WirelessRedstone-CBE"
+side = "both"
 
 [download]
-hash = '56bf1c9672840e42049ec796d7c119b1b532317d2074207acae4d6884f75f394'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.1/WR-CBE-1.7.1.jar'
+hash = "56bf1c9672840e42049ec796d7c119b1b532317d2074207acae4d6884f75f394"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases/download/1.7.1/WR-CBE-1.7.1.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.1'
+version = "1.7.1"

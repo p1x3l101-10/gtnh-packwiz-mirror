@@ -1,13 +1,13 @@
-filename = 'irontanks-1.4.2.jar'
-name = 'Irontanks'
-side = 'both'
+filename = "irontanks-1.4.2.jar"
+name = "Irontanks"
+side = "both"
 
 [download]
-hash = '9a8fe3e60b0dbf821641100eeab6f2de74f15606bf79ad742817b57981872291'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Irontanks/releases/download/1.4.2/irontanks-1.4.2.jar'
+hash = "9a8fe3e60b0dbf821641100eeab6f2de74f15606bf79ad742817b57981872291"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Irontanks/releases/download/1.4.2/irontanks-1.4.2.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.2'
+version = "1.4.2"

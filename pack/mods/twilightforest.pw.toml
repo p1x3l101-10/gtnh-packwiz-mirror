@@ -1,13 +1,13 @@
-filename = 'TwilightForest-2.7.13.jar'
-name = 'twilightforest'
-side = 'both'
+filename = "TwilightForest-2.7.13.jar"
+name = "twilightforest"
+side = "both"
 
 [download]
-hash = '3f5c14c79c74824e354cc9817d03d2c603dca2a993db2a612b12c16fc381582d'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar'
+hash = "3f5c14c79c74824e354cc9817d03d2c603dca2a993db2a612b12c16fc381582d"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/twilightforest/releases/download/2.7.13/TwilightForest-2.7.13.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.7.13'
+version = "2.7.13"

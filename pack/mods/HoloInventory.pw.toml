@@ -1,13 +1,13 @@
-filename = 'holoinventory-2.5.5-GTNH.jar'
-name = 'HoloInventory'
-side = 'both'
+filename = "holoinventory-2.5.5-GTNH.jar"
+name = "HoloInventory"
+side = "both"
 
 [download]
-hash = '505930a08ad24da299053684d9378d6030871c0b4475b36e39f19887f4a523a4'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.5-GTNH/holoinventory-2.5.5-GTNH.jar'
+hash = "505930a08ad24da299053684d9378d6030871c0b4475b36e39f19887f4a523a4"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/HoloInventory/releases/download/2.5.5-GTNH/holoinventory-2.5.5-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '2.5.5-GTNH'
+version = "2.5.5-GTNH"

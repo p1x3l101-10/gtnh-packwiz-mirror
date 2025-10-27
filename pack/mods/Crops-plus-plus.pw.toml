@@ -1,13 +1,13 @@
-filename = 'CropsPP-1.8.11.jar'
-name = 'Crops-plus-plus'
-side = 'both'
+filename = "CropsPP-1.8.11.jar"
+name = "Crops-plus-plus"
+side = "both"
 
 [download]
-hash = 'b532018857a985b06b57db23fc5708df2adc16f685b0115996d07180742ec47f'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.8.11/CropsPP-1.8.11.jar'
+hash = "b532018857a985b06b57db23fc5708df2adc16f685b0115996d07180742ec47f"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Crops-plus-plus/releases/download/1.8.11/CropsPP-1.8.11.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.8.11'
+version = "1.8.11"

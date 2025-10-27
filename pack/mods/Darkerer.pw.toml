@@ -1,13 +1,13 @@
-filename = 'darkerer-1.0.6.jar'
-name = 'Darkerer'
-side = 'both'
+filename = "darkerer-1.0.6.jar"
+name = "Darkerer"
+side = "both"
 
 [download]
-hash = 'e6a4fc6f07862fd35334e4d0b895330041abe5a675bbe7ce1212bfc00d62a5cb'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/Darkerer/releases/download/1.0.6/darkerer-1.0.6.jar'
+hash = "e6a4fc6f07862fd35334e4d0b895330041abe5a675bbe7ce1212bfc00d62a5cb"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/Darkerer/releases/download/1.0.6/darkerer-1.0.6.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.0.6'
+version = "1.0.6"

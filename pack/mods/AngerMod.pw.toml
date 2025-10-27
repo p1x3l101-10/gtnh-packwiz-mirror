@@ -1,13 +1,13 @@
-filename = 'AngerMod-0.9.0.jar'
-name = 'AngerMod'
-side = 'both'
+filename = "AngerMod-0.9.0.jar"
+name = "AngerMod"
+side = "both"
 
 [download]
-hash = '3611ad49850a62e832b7f3c479d3dc808b59881a2ca51309ccca5d4967eb1f04'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/AngerMod/releases/download/0.9.0/AngerMod-0.9.0.jar'
+hash = "3611ad49850a62e832b7f3c479d3dc808b59881a2ca51309ccca5d4967eb1f04"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/AngerMod/releases/download/0.9.0/AngerMod-0.9.0.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '0.9.0'
+version = "0.9.0"

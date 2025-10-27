@@ -1,13 +1,13 @@
-filename = 'betterp2p-1.3.3.jar'
-name = 'BetterP2P'
-side = 'both'
+filename = "betterp2p-1.3.3.jar"
+name = "BetterP2P"
+side = "both"
 
 [download]
-hash = 'b1aea41b372233ea24af3eeb776d25dd213c3e7e2cd07dab83fb7cac3c3cdd14'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.3/betterp2p-1.3.3.jar'
+hash = "b1aea41b372233ea24af3eeb776d25dd213c3e7e2cd07dab83fb7cac3c3cdd14"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BetterP2P/releases/download/1.3.3/betterp2p-1.3.3.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.3.3'
+version = "1.3.3"

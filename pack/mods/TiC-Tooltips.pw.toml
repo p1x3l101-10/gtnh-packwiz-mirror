@@ -1,13 +1,13 @@
-filename = 'TiCTooltips-1.4.0.jar'
-name = 'TiC-Tooltips'
-side = 'client'
+filename = "TiCTooltips-1.4.0.jar"
+name = "TiC-Tooltips"
+side = "client"
 
 [download]
-hash = '3ff8c4f812bd71592696c01f4dabf6cf5930b686db5be79f2e1eaeaf1c0c099d'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.4.0/TiCTooltips-1.4.0.jar'
+hash = "3ff8c4f812bd71592696c01f4dabf6cf5930b686db5be79f2e1eaeaf1c0c099d"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/TiC-Tooltips/releases/download/1.4.0/TiCTooltips-1.4.0.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.0'
+version = "1.4.0"

@@ -1,13 +1,13 @@
-filename = 'CookingForBlockheads-1.4.4-GTNH.jar'
-name = 'CookingForBlockheads'
-side = 'both'
+filename = "CookingForBlockheads-1.4.4-GTNH.jar"
+name = "CookingForBlockheads"
+side = "both"
 
 [download]
-hash = '79d714498f1ff2efadd96b21a86d93b9c6892789f2920ec359591a05dadaaa64'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.4-GTNH/CookingForBlockheads-1.4.4-GTNH.jar'
+hash = "79d714498f1ff2efadd96b21a86d93b9c6892789f2920ec359591a05dadaaa64"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/CookingForBlockheads/releases/download/1.4.4-GTNH/CookingForBlockheads-1.4.4-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.4.4-GTNH'
+version = "1.4.4-GTNH"

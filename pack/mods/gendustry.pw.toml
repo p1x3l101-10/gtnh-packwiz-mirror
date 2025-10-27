@@ -1,13 +1,13 @@
-filename = 'gendustry-1.9.4-GTNH.jar'
-name = 'gendustry'
-side = 'both'
+filename = "gendustry-1.9.4-GTNH.jar"
+name = "gendustry"
+side = "both"
 
 [download]
-hash = '6690a0768748c3d6d477ef6d9db062e59e57dd52b7a1f7c3a6137b8f6f3ab76c'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/gendustry/releases/download/1.9.4-GTNH/gendustry-1.9.4-GTNH.jar'
+hash = "6690a0768748c3d6d477ef6d9db062e59e57dd52b7a1f7c3a6137b8f6f3ab76c"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/gendustry/releases/download/1.9.4-GTNH/gendustry-1.9.4-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.9.4-GTNH'
+version = "1.9.4-GTNH"

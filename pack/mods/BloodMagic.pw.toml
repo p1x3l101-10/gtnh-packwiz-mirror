@@ -1,13 +1,13 @@
-filename = 'BloodMagic-1.7.52.jar'
-name = 'BloodMagic'
-side = 'both'
+filename = "BloodMagic-1.7.52.jar"
+name = "BloodMagic"
+side = "both"
 
 [download]
-hash = 'f1b23b49034bbf1f4ef942b56818119a20035e9da933134c16c4b2f4e14fd855'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.52/BloodMagic-1.7.52.jar'
+hash = "f1b23b49034bbf1f4ef942b56818119a20035e9da933134c16c4b2f4e14fd855"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BloodMagic/releases/download/1.7.52/BloodMagic-1.7.52.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.52'
+version = "1.7.52"

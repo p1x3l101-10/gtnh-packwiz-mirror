@@ -1,13 +1,13 @@
-filename = 'defaultserverlist-1.6.5.jar'
-name = 'DefaultServerList'
-side = 'client'
+filename = "defaultserverlist-1.6.5.jar"
+name = "DefaultServerList"
+side = "client"
 
 [download]
-hash = 'a5fceb5e01833a086bd8026f60ca3c09afd68806422c3c20c505a738e2bf6b8a'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.6.5/defaultserverlist-1.6.5.jar'
+hash = "a5fceb5e01833a086bd8026f60ca3c09afd68806422c3c20c505a738e2bf6b8a"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/DefaultServerList/releases/download/1.6.5/defaultserverlist-1.6.5.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.6.5'
+version = "1.6.5"

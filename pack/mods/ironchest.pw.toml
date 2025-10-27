@@ -1,13 +1,13 @@
-filename = 'IronChest-6.1.6.jar'
-name = 'ironchest'
-side = 'both'
+filename = "IronChest-6.1.6.jar"
+name = "ironchest"
+side = "both"
 
 [download]
-hash = 'f02636fc5811d33d746341bdb9890278fc60205b10dd9cb0d7cd378f3f8e1859'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronChest-6.1.6.jar'
+hash = "f02636fc5811d33d746341bdb9890278fc60205b10dd9cb0d7cd378f3f8e1859"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronChest-6.1.6.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '6.1.6'
+version = "6.1.6"

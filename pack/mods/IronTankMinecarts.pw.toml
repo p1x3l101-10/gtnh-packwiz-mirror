@@ -1,13 +1,13 @@
-filename = 'irontankminecarts-1.0.12.jar'
-name = 'IronTankMinecarts'
-side = 'both'
+filename = "irontankminecarts-1.0.12.jar"
+name = "IronTankMinecarts"
+side = "both"
 
 [download]
-hash = 'a16b445270f12999b24264e3ac946d9f9206a846ad6735e59bf8114f8928beb7'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/IronTankMinecarts/releases/download/1.0.12/irontankminecarts-1.0.12.jar'
+hash = "a16b445270f12999b24264e3ac946d9f9206a846ad6735e59bf8114f8928beb7"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/IronTankMinecarts/releases/download/1.0.12/irontankminecarts-1.0.12.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.0.12'
+version = "1.0.12"

@@ -1,13 +1,13 @@
-filename = 'buildcraft-7.1.44.jar'
-name = 'BuildCraft'
-side = 'both'
+filename = "buildcraft-7.1.44.jar"
+name = "BuildCraft"
+side = "both"
 
 [download]
-hash = '42d3e70f9435f0c0bdca304d57a680aa6ec9e6f8536620778452e3213e126d80'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.44/buildcraft-7.1.44.jar'
+hash = "42d3e70f9435f0c0bdca304d57a680aa6ec9e6f8536620778452e3213e126d80"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.44/buildcraft-7.1.44.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '7.1.44'
+version = "7.1.44"

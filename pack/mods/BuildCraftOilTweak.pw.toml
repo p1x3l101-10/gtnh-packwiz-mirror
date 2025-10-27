@@ -1,13 +1,13 @@
-filename = 'BuildCraftOilTweak-1.1.1.jar'
-name = 'BuildCraftOilTweak'
-side = 'both'
+filename = "BuildCraftOilTweak-1.1.1.jar"
+name = "BuildCraftOilTweak"
+side = "both"
 
 [download]
-hash = '145daa84c55ffa7781363f8a4670eb898f5ff99f381233e98fdc3d32f5d80d6e'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/BuildCraftOilTweak/releases/download/1.1.1/BuildCraftOilTweak-1.1.1.jar'
+hash = "145daa84c55ffa7781363f8a4670eb898f5ff99f381233e98fdc3d32f5d80d6e"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/BuildCraftOilTweak/releases/download/1.1.1/BuildCraftOilTweak-1.1.1.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.1.1'
+version = "1.1.1"

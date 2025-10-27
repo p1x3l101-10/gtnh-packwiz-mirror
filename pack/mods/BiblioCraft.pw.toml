@@ -1,13 +1,13 @@
-filename = 'BiblioCraft[v1.11.7][MC1.7.10].jar'
-name = 'BiblioCraft'
-side = 'both'
+filename = "BiblioCraft[v1.11.7][MC1.7.10].jar"
+name = "BiblioCraft"
+side = "both"
 
 [download]
-hash = '6c6cdba3b5fc7ceedb4441063d41482b0ee0736dd7354931dc599ec1de1f33ef'
-hash-format = 'sha256'
-url = 'https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5bv1.11.7%5d%5bMC1.7.10%5d.jar'
+hash = "6c6cdba3b5fc7ceedb4441063d41482b0ee0736dd7354931dc599ec1de1f33ef"
+hash-format = "sha256"
+url = "https://mediafilez.forgecdn.net/files/2423/369/BiblioCraft%5bv1.11.7%5d%5bMC1.7.10%5d.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.11.7'
+version = "1.11.7"

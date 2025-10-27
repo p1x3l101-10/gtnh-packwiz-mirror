@@ -1,13 +1,13 @@
-filename = 'WitchingGadgets-1.7.24-GTNH.jar'
-name = 'WitchingGadgets'
-side = 'both'
+filename = "WitchingGadgets-1.7.24-GTNH.jar"
+name = "WitchingGadgets"
+side = "both"
 
 [download]
-hash = '61e8015dc17c34132b860033d5f8fe9f31185fda16616d31569333cc4dca6b92'
-hash-format = 'sha256'
-url = 'https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.24-GTNH/WitchingGadgets-1.7.24-GTNH.jar'
+hash = "61e8015dc17c34132b860033d5f8fe9f31185fda16616d31569333cc4dca6b92"
+hash-format = "sha256"
+url = "https://github.com/GTNewHorizons/WitchingGadgets/releases/download/1.7.24-GTNH/WitchingGadgets-1.7.24-GTNH.jar"
 
 [x-generator]
 rateLimited = false
 usedApi = false
-version = '1.7.24-GTNH'
+version = "1.7.24-GTNH"
